@@ -22,8 +22,7 @@ import { TextLoader } from "langchain/document_loaders/fs/text"; // Import TextL
 //     "src/data/states.json",
 //     ["/state", "/code", "/nickname", "/website", "/admission_date", "/admission_number", "/capital_city", "/capital_url", "/population", "/population_rank", "/constitution_url", "/twitter_url"],
 // );
-// const loader = new TextLoader("src/data/data1.txt");
-const loader = new TextLoader("src/data/data1.txt");
+const loader = new TextLoader("src/data/data31.txt");
 
 export const dynamic = 'force-dynamic'
 
@@ -41,7 +40,7 @@ const formatDocumentsAsString = (docs: Document[]): string => {
 
 
 
-const TEMPLATE = `Answer the user's questions based only on the following context. If the answer is not in the context, reply politely that you do not have that information available. The chatbot is designed to assist users by providing accurate instructions and guidance on performing specific tasks or using features within various Customer Data Platforms (CDPs).It should be not more than 60 words. It is equipped to answer user questions like "How do I set up a new source in Segment?" or "How can I create a user profile in mParticle?" by retrieving relevant information from provided documentation. The chatbot should efficiently navigate through this documentation to identify relevant sections and extract necessary steps or instructions. Furthermore, it should handle questions of varying lengths without breaking them down and politely inform users when a question is irrelevant to CDPs or if the information is not available in the provided context.
+const TEMPLATE = `Answer the user's questions based only on the following context.Give me word limit of 50 words. If the answer is not in the context, reply politely that you do not have that information available. The chatbot is designed to assist users by providing accurate instructions and guidance on performing specific tasks or using features within various Customer Data Platforms (CDPs).It should be not more than 60 words. It is equipped to answer user questions like "How do I set up a new source in Segment?" or "How can I create a user profile in mParticle?" by retrieving relevant information from provided documentation. The chatbot should efficiently navigate through this documentation to identify relevant sections and extract necessary steps or instructions. Furthermore, it should handle questions of varying lengths without breaking them down and politely inform users when a question is irrelevant to CDPs or if the information is not available in the provided context.
 
 ==============================
 Context: {context}
@@ -75,33 +74,15 @@ export async function POST(req: Request) {
         // const [webDocs, jsonDoc] = await Promise.all([webDocsPromise, jsonDocsPromise]);
         // const [webDocs] = await Promise.all([webDocsPromise]);
 
-        // const textDocs = await loader.load();
-        // // const allDocs = flatten([...webDocs, ...jsonDoc]);
-        // // const allDocs = flatten([...webDocs]);
-        // const allDocs = flatten([...textDocs]);
-
-        // const textSplitter = new CharacterTextSplitter({chunkSize: 250, chunkOverlap: 0}); // Adjust chunk size as needed
-
-        // const docs = await textSplitter.splitDocuments(allDocs);
-        // const context1 = formatDocumentsAsString(docs);
-
-
         const textDocs = await loader.load();
+        // const allDocs = flatten([...webDocs, ...jsonDoc]);
+        // const allDocs = flatten([...webDocs]);
         const allDocs = flatten([...textDocs]);
 
-        const textSplitter = new CharacterTextSplitter({ chunkSize: 250, chunkOverlap: 0 });
+        const textSplitter = new CharacterTextSplitter({chunkSize: 1000, chunkOverlap: 0}); // Adjust chunk size as needed
+
         const docs = await textSplitter.splitDocuments(allDocs);
-
-        // *** LOGGING ADDED HERE ***
-        console.log(`Number of chunks created: ${docs.length}`);
-        console.log(`Chunk sizes (first 5):`, docs.slice(0, 5).map(doc => doc.pageContent.length));
-        console.log(`Total characters in all chunks:`, docs.reduce((sum, doc) => sum + doc.pageContent.length, 0));
-        //Estimate of tokens (rough estimate, 1 character ~ 0.75 tokens)
-        const estimatedTokens = docs.reduce((sum, doc) => sum + doc.pageContent.length * 0.75, 0);
-        console.log(`Estimated total tokens in chunks: ${estimatedTokens}`);
-
-        const context1 = formatDocumentsAsString(docs);
-
+        const context = formatDocumentsAsString(docs);
 
         // Extract the `messages` from the body of the request
         const { messages } = await req.json();
@@ -137,7 +118,6 @@ export async function POST(req: Request) {
             // model: 'gpt-3.5-turbo',
             // model:'chatgpt-4o-latest',
             model:'gpt-4o-mini',
-            // model: 'text-embedding-3-large',
             temperature: 0,
             streaming: true,
             verbose: true,
@@ -170,10 +150,9 @@ export async function POST(req: Request) {
         const stream = await chain.stream({
             chat_history: formattedPreviousMessages.join('\n'),
             question: currentMessageContent,
-            // context:formatDocumentsAsString(docs),
-            context:context1,
+            context:formatDocumentsAsString(docs),
         });
- 
+
         // Create a readable stream from the chain's output
         // const readableStream = new ReadableStream({
         //     async start(controller) {

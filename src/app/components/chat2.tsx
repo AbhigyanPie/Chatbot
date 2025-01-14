@@ -10,9 +10,13 @@ import zeotapLogo1 from './download.jpeg';
 
 export function Chat2() {
     const apiOptions = [
-        { value: 'api/ex4', label: 'Segment' },
+        { value: 'api/ex41', label: 'Segment 1.1' },
+        { value: 'api/ex42', label: 'Segment 1.2' },
+        { value: 'api/ex43', label: 'Segment 1.3' },
+        { value: 'api/ex44', label: 'Segment 1.4' },
         { value: 'api/ex5', label: 'mParticle' },
-        { value: 'api/ex6', label: 'Lytics' },
+        { value: 'api/ex61', label: 'Lytics 1.1' },
+        { value: 'api/ex62' , label: 'Lytics 1.2'},
         { value: 'api/ex7', label: 'Zeotap' },
     ];
     // const apiOptions = ['api/ex4', 'api/ex5', 'api/ex6', 'api/ex7'];
