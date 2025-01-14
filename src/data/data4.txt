@@ -1,0 +1,1547 @@
+Crawling: https://zeotap.com/information-security-policy-statement
+Paragraphs:
+At Zeotap, we are committed to protecting the confidentiality, integrity, availability and privacy of our information assets as well as the information assets of our customers. We ensure that Zeotap’s products and services comply with leading industry practices as well as regulatory, operational and contractual requirements.
+
+We continuously strive to enhance our security processes and deliver products and services to customers under all contingencies. We pride ourselves on:
+
+If you have found a bug, please contact us using the below email address.
+
+[email protected]
+
+Thank you!
+Step into a new era of marketing possibilities, unleashing the full potential of your customer data. Experience the power of Zeotap CDP.
+Sign up for our newsletter
+Be the first to get access to our marketing resources and keep up to date with the latest CDP best practices, privacy standards, marketing, and customer data.
+Get a demo
+Step into a new era of marketing possibilities, unleashing the full potential of your customer data. Experience the power of Zeotap CDP.
+Follow us
+
+Headings:
+Information Security Policy Statement
+Get a demo
+Follow us
+Crawling: https://zeotap.com/product-privacy-policy
+Paragraphs:
+More information about our partners with whom we share your data can be seenhere.
+DEUTSCH
+ESPAÑOL
+zeotap GmbH (“Zeotap,” “us,” “we,” or “our”) is a company that offers the next-generation Customer Data Platform. It empowers brands to unify, enhance and activate customer data in a cookieless future, all while putting consumer privacy and compliance front-and-centre. Our services either solely use Zeotap’s proprietary technology or use its proprietary technology in combination with customer data (“User Data”) received from third parties (“Data Partners”), including but not limited to, customer data unification, identity extension, data onboarding, data matching, data insights, custom audience building, analytics/modelling, audience targeting in web and mobile advertising, and transfer of data into activation systems (including marketing ecosystem partners) (“Services”). Please note that, as mentioned above, our Services are comprised of two types: (i) software products (“Software Products”), as part of which we are using solely Zeotap’s proprietary technology to process and arrange the customer data shared by our Clients (as defined below), and (ii) data products (“Data Products”), as part of which we use User Data either alone or in combination with the customer data shared by our Clients (as defined below). You can learn more about our Products and Services on ourwebsite.
+Zeotap participates in the IAB Europe Transparency & Consent Framework andcomplies with its Specifications and Policies. Zeotap’s identification number withinthe framework is 301.
+Our Data Partners are mobile network operators, mobile application providers, media, technology platform providers, owners of media properties (“Publishers”), brands, agencies and others that have access to certain User Data that they wish to monetize by using our Services.
+Our clients (“Clients”) are businesses, including brands and agencies (“Advertisers”), Publishers, and other companies that send digital targeted advertising to  consumers. By using our Services, our Clients can address a particular audience and tailor advertisements to the likely interests and preferences of such audience.
+We work to ensure that our Services respect users’ privacy rights. To accomplish this goal, we adhere to privacy-by-design and privacy-by-default principles throughout the process of designing, building, and delivering our Services.
+By law, we are required to provide you with information regarding:
+The terms of this Policy apply to all User Data to the extent it contains your personal data as defined in the applicable laws and regulations.
+This Policy does not apply to personal data collected by our website zeotap.com. To access our website privacy policy, clickhere.
+This Policy also does not apply to information collected by our Data Partners, Clients or other third parties who may provide personal data to us, as their personal data handling practices are covered by their own privacy policies.
+This Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes in our processing of your personal data.
+As part of the Data Products, we receive the following categories of User Data from our Data Partners:
+We do not receive any ‘special categories of personal data’ (i.e., information about your race, ethnicity, religious or philosophical beliefs, sexual orientation, sex life, political opinions, health, trade union membership, or genetic/biometric data) or, knowingly, any personal data about children under the age of 16.
+Our Data Partners may collect data directly from users (both online and offline) or receive data from third parties.
+We request that our Data Partners provide users with all required information about the use of their personal data and allow users to exercise their rights according to applicable laws and regulations.
+We may also use cookies, pixels and similar tools to collect users’ Ad IDs or cookie IDs ourselves. These tools also automatically collect and send us information such as referral URLs, user agent string, and IP addresses. This information is a normal part of the log file information that is routinely exchanged as part of communication between operating systems.
+When we obtain different User Data pertaining to the same device from multiple Data Partners, we aggregate such User Data and store it against the same Ad ID (advertising identifier, associated with a device) or Cookie ID (a string of characters that websites and servers associate with the browser on which the cookie is stored). Zeotap also maintains a separate ID inventory, which connects the User Data into a common ID (“zeoID”) and is an internal pseudonymous identifier.
+We enhance User Data to create de-identified data segments and aggregate such segments into segment lists or Ad ID / Cookie ID lists based on our Clients’ preferences. We then share such lists with our Clients to enable them to effectively target the relevant users.
+We do not process information that directly identifies a particular individual such as an unencrypted name, address or government-issued ID number. However, whether or not User Data we receive are considered personal or personally identifiable data depends on, among other factors, the definition that applies in a user’s physical location. For example, in some locations, a user’s IP address may be deemed to be personal data, while in others it is not.
+We do not interact directly with users or their devices, unless a user sends us a deletion request, as described below under“YOUR RIGHTS WITH RESPECT TO YOUR PERSONAL DATA (INCLUDING OPT-OUT OPTIONS)”
+Please note that as part of our Software Products we may receive various additional categories of User Data from our Clients (including directly identifiable data).
+Below we describe the User Data categories in more detail.
+Ad IDs are user-resettable, unique, anonymized identifiers for advertising. Ad IDs identify a specific device and are implemented both on IDFA and Google Android Advertising ID.
+We obtain Ad IDs associated with de-identified User Data from our Data Partners. Ad IDs are then used by our Clients to identify advertising requests and to deliver relevant advertisements. We may also use Ad IDs to establish a relationship between different User Data attributes pertaining to the same user. For example, if we obtain User Data that indicates a certain user is between 25 and 30 years old, and later learn from another Data Partner that the user of the same device is interested in a healthy lifestyle, we combine this information against the same Ad IDs or cookie ID.
+An HTTP cookie (also called web cookie, Internet cookie, browser cookie or simply a cookie) is a small piece of data sent from a website and is stored in the user’s web browser while the user is browsing.
+We set third party cookies on behalf of Publishers who provide space for the display of advertising within websites. We may use cookies to establish a relationship between devices or data pertaining to the same user. If we already have information about a device’s user, we may link the information stored in cookies to the device’s Ad ID. We call this activity of linking information “mapping.” We use this information to facilitate the delivery of our Clients’ targeted Ads.
+In the course of the mapping activity described in the above paragraph, we receive such information as referral URLs, user agent string, and IP addresses.
+When you come to the website where Zeotap cookies are set, the log file we automatically receive includes the referral URL, which is the address of the website that you came from. We do not use and discard referral URLs within a reasonable time in compliance with our data retention period.
+We use IP addresses to derive information such as country and carrier. Afterwards, we discard IP addresses within a reasonable time in compliance with our data retention period.
+We use user agent string information contained in the log file to determine your device operating system and device model. Afterwards, we discard user agent string within a reasonable time in compliance with our data retention period.
+Some Data Partners or Clients may provide their offline data, such as hashed email addresses and hashed phone numbers. We require that such data are hashed using secure hashing algorithms prior to sharing with Zeotap.
+We use hashed emails or hashed phone numbers to establish a relationship between offline and online user profiles pertaining to a certain user and enrich the profiles pertaining to those online users. For example, our Client would like to run an advertising campaign on mobile devices targeting users whose hashed email addresses and/or hashed phone numbers the Client already has. However, without respective Ad IDs, the Client cannot target the desired audience. By comparing hashed email addresses and hashed phone numbers provided by the Client with the User Data we have from our Data Partners, we can match hashed email addresses or hashed phone numbers to Ad IDs corresponding to the same user. As a result, we have a list of Ad IDs corresponding to the list of users the Client would like to target. Additionally, we can also enrich those lists with additional profile data, such as the ones described below.
+Hashed emails would also serve as a basis for the creation of ID+, our tokenized individual pseudonymous identifier and specific to a user. You can learn more about ID+here.
+We may obtain demographic User Data from our Data Partners, such as:
+Zeotap uses this information to create demographic segments about users, for example, users who are “males, 30 to 34, living in Brooklyn.” We connect segments with Ad IDs so that our Clients can reach their target audiences on mobile devices.
+We may obtain App Usage and Browsing Data from our Data Partners, such as:
+URLs are web addresses, a specific character string that constitutes a reference to a resource. Most web browsers display the URL of a web page above the page in an address bar.
+We transform App Usage and Browsing Data into aggregated segments based on interests or purchase intent (such as Sports Enthusiast, Health & Fitness Buffs) which are of interest to our Clients.
+We may obtain purchase data from our Data Partners, such as:
+We may receive data from Data Partners about the physical location of a specific device, including latitude-longitude coordinates obtained through GPS tools, Wi-Fi or cell tower triangulation techniques.
+The location data we receive from Data Partners may be generalized, non-precise location data, or we may render the location data non-precise, in order to provide generalized location data to our Clients. Our Clients may use inferences from this information to send localized ads or targeted ads. We do not process precise location EU and UK data.
+A TC String’s primary purpose is to encapsulate and encode all the information disclosed to a user and the expression of their preferences for their personal data processing under the GDPR. Using a Consent Management Platform (CMP), the information is captured into an encoded and compact HTTP-transferable string. This string enables communication of transparency and consent information to entities, or “vendors”, that process a user’s personal data. Vendors decode a TC String to determine whether they have the necessary legal bases to process a user’s personal data for their purposes. The concise string data format enables a CMP to persist and retrieve a user’s preferences any time they’re needed as well as transfer that information to any vendors who need it.
+For further details, please refer to theIAB Europe policies.
+Our Services enable our Clients to among other things tailor advertising you see on your internet browser or mobile device to your interests and preferences. As a result, the number of ads that are not relevant or of interest to you will be reduced. To achieve this goal, we need to process your personal data. Such processing operations including the use ofcookies or other tracking technologies,are covered by your consent, which especially enables our Clients to use customized audience segments to improve and enhance their marketing activities and marketing reach.
+Under Data Products, our Data Partners who provide User Data to us collect users’ consent to process their personal data and share it with us according to their respective privacy policies. The consent collected by our Data Partners complies with the applicable laws requirements and enables Zeotap and its Clients processing activities. Any processing of your personal data by Zeotap is subject to your rights of choice and control as explained below. In accordance with the IAB Europe policies, we may process TC Strings. As TCF Vendor, we have conducted and documented a legitimate interest assessment for the processing of TC String. This assessment has shown that data subjects’ interests and fundamental rights do not override the legitimate interests pursued.
+Under Software Products, our Clients are acting as data controllers and are responsible for ensuring that an appropriate legal basis is in place.
+Please note that under Data Products, in case we combine our Client data with User Data, our Clients and us act as joint data controllers. With respect to the joint process, we and our Clients jointly determine the purposes and means of processing of User Data. In an agreement on joint controllership pursuant to Article 26 GDPR, we and our Clients have determined how the respective tasks and responsibilities in the processing of personal data are structured and who fulfils which data protection obligations. In particular, it was determined how an appropriate level of security and your rights as a data subject can be ensured, how the information duties under the applicable laws can be fulfilled jointly and how potential data protection incidents can be monitored. This also includes ensuring that reporting and notification obligations are fulfilled.
+With whom we share user data
+We share User Data with the following categories of third parties for the following purposes:
+The Advertisers we work with operate in the following businesses: Arts & Entertainment, Automotive, Health & Fitness, Food & Drink, Hobbies & Interests, Home & Garden, News, Finance & Insurance, Science, Pets, Sports, Style & Fashion, Technology & Computing, Tourism & Travel, Real Estate, Shopping, Health & Personal care, Information & Communication Technology (ICT), Energy, Transportation. Agencies we work with include:Dentsu UK Limited and Dentsu affiliate entities.
+Publisherswe work with include: MediaMond S.p.A., Triboo Media S.r.l., NetAddiction S.r.l., Edizioni Piemme S.p.A., Teads Italia S.r.l., Viralize S.r.l., AdKaora S.r.l., WebAds S.r.l., Instal S.r.l., Smartclip Italia S.r.l., MovingUp S.r.l., ZETA Gestion de Medios, WebAds Interactive SL, VLN Servicios Publicitarios Integrales S.L. (Sunmedia), Blue Media Comunicacion, S.L., RichAudience International SL, Smartclip Hispania SL, Teads S.A.
+Data Platformswe work with include: A.C. Nielsen Company Limited, adsquareGmbH, Xandr Inc., Inmobi Ltd., Maiden Marketing PTE Ltd. (d.b.a. POKKT), Amobee Inc.,Widespace AB, Google Ireland Ltd., The Trade Desk Inc., Adform A/S, Adobe Systems Inc.,TAPTAP Networks S.L., Videology Media Technologies B.V., Teads Italia S.r.l., Teads S.A.(global), Smartclip Italia S.r.l., LiveRamp Inc., TabMo SAS (Hawk), Pocket Math PteLtd, Bidstalk Technologies Pte Ltd, Mediasmart Mobile S.L., AppLiftGmbH,  salesforce.com  EMEA Limited, Yahoo AdTEch LLC, Meta Platforms Ireland Limited,Narrative I/O Inc., Adex GmbH, Smart Adserver, Lotame Solutions, Inc., Ventes Avenue PvtLtd, Neustar Inc., MediaMath, Inc., A.MOB SAS, Oracle, Amazon Europe Core SARL,Twitter International Company, Snap Group Limited, Taboola.com Ltd, Weborama SA,FreeWheel Media Inc, PubMatic Inc, Index Exchange Inc, Platform161 BV, Dynamic YieldGmbH, Permutive Limited, TikTok Technology Limited (Ireland), Braze Inc, MicrosoftCorporation, Magnite, Inc., Eyeota Pte Ltd, Neodata Group s.r.l., ID5 Technology Limited
+We will also disclose your User Data in response to valid legal processes, for example, in response to a court order, a subpoena or other legal request for information, and/or to comply with applicable legal and regulatory reporting requirements. We also may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or to verify or enforce compliance with the policies governing our products and/or services and with applicable laws, or as otherwise required or permitted by law or consistent with legal requirements. We are required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+In addition, we may transfer your information to an entity or individual that acquires, buys, or merges with us, or our affiliates. In these cases, we will require the acquiring company to carry on the material terms of this Policy, including the requests for account deletion.
+When we share User Data with the recipients described above, such sharing may constitute a transfer to a third country outside of the European Economic Area, for which the European Commission has not determined an adequate level of protection for your personal data. By law, we are required to ensure that the level of protection guaranteed for your personal data by the European and UK laws is not undermined by such transfer. We enter the EU Standard Contractual Clauses with respective User Data recipients, which you can access upon request. Please note that User Data is stored in the following locations: Germany, Belgium and United Kingdom.
+We have implemented appropriate technical and organizational safeguards to protect any personal data we receive from theft, loss, and unauthorized access. We follow generally accepted standards to protect personal User Data throughout the entire use cycle starting from the initial transfer until deletion. In addition, we limit internal access to your personal data to our employees, agents, contractors, and other third parties who have a legitimate business need to know. They will only process your personal data on our instructions, and they are subject to a duty of confidentiality.
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable supervisory authority of a breach where we are legally required to do so.
+Your personal data belongs to you. You have the following rights – in part under certainconditions – with respect to your personal data:
+To opt-out from the processing or exercise your other rights with respect to your personal data, you can directly contact your mobile operator or another Data Partner with whom you shared your personal data (please refer to their respective privacy policy). It is the responsibility of the respective Data Partner to ensure that your request is fully honoured.
+Additionally, you can contact us directly. The data we store is encrypted and stored against either (i) an Ad ID or (ii) a Cookie ID. This means that we need your Ad ID and/or Cookie ID in order to find all your data that are present in our system.
+Alternatively, we can check whether the data attribute that you sent us in your request (e.g. a telephone number or e-mail address) is stored in our system in a hashed format, however, if the hashed telephone number or hashed e-mail address is not stored in our system, and you did not provide us with your Ad ID and/or Cookie ID, we will not be able to find other related data that might still be stored in our system.
+Therefore, in order to be able to process and respond to your request properly and fully, we provide you with the following different channels to exercise your rights:
+Apart from all the above rights, you can also lodge a complaint with a supervisory authority if you believe we or our Data Partners infringed upon your rights.
+Moreover, you can always use the following mechanism to opt-out from targeted advertising:
+Please also note that using the above options does not mean you will block mobile advertising, but it means that the ads you receive will not be personalized for you.
+Regarding users from the United States:
+This section applies solely to visitors or users who reside in the United States.
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for.
+We retain data until the occurrence of the following events:
+Please note that our cookies have the following storage durations:
+If you have any questions or suggestions about this Policy and our privacy practices, please contact ushereor through the below channels:
+By email:[email protected]
+By post to Zeotap: zeotap GmbH, Privacy Team, Stresemannstraße 123, 10963 Berlin, Germany
+By post to our UK representative: zeotap UK Limited, 16 Great Queen Street, Covent Garden, London WC2B 5AH, United Kingdom
+By post to our external DPO: ePrivacy GmbH, Prof. Dr. Christoph Bauer, Burchardstrasse 14, 20095 Hamburg, Germany
+This Policy was last modified in August 2024.
+Step into a new era of marketing possibilities, unleashing the full potential of your customer data. Experience the power of Zeotap CDP.
+Sign up for our newsletter
+Be the first to get access to our marketing resources and keep up to date with the latest CDP best practices, privacy standards, marketing, and customer data.
+Get a demo
+Step into a new era of marketing possibilities, unleashing the full potential of your customer data. Experience the power of Zeotap CDP.
+Follow us
+
+Headings:
+PRODUCT AND SERVICES PRIVACY POLICY
+
+Data categories we receive and use
+A. Online identifiers
+
+Advertising IDs
+
+Cookie IDs
+
+B. Browsing data
+
+Log file information
+
+C. Offline identifiers
+
+Hashed email addresses and hashed phone numbers
+
+D. Profile data
+
+Demographic data
+
+App usage data
+
+Purchase data
+
+E. Geolocation data
+F. TC String
+
+Legal basis for processing personal data
+
+When we transfer user data internationally
+
+How we protect personal data
+
+Your rights with respect to your personal data (including opt-out options)
+
+How to exercise your rights
+
+Information on data retention
+
+Contact
+Get a demo
+Follow us
+Crawling: https://docs.zeotap.com/articles/#!api-doc-customer/profile-api
+Paragraphs:
+
+Headings:
+Crawling: https://zeotap.com/about-us/careers
+Paragraphs:
+Join us on our mission to provide easy, secure and impactful customer data
+At Zeotap, we envision a future in which businesses can deliver personalised and data-driven customer experiences while putting customer privacy at the front and centre. We are dedicated to helping brands monetise their customer data and easily attain commercial outcomes. To achieve this, we have developed and offer must-have software and data solutions to support our customers in reaching their desired business outcomes across marketing, sales, and customer service. We differentiate ourselves by providing addressiblity in customer data. This easy-to-use platform drives faster results with data privacy and compliance focus, supported by best-in-class customer support.
+Our values define who we are and how we work daily with customers, prospects, and team members. We let them come through in all that we do!
+We are not afraid to take risks and think outside the box. We are always looking for new and better ways to do things. We want to push boundaries and deliver value through innovation and creativity.
+We remain flexible and responsive to changing circumstances. We are open to new ideas and approaches, as well as listen to and understand the perspectives of others. We are willing to learn and grow from new experiences.
+We take on challenges that others may consider impossible to solve. A strong sense of ownership and a desire to succeed drive us. We put in the hard work and effort necessary to achieve our goals.
+We consistently act with integrity and accountability and focus on value creation for our colleagues and customers. We take pride in doing the right thing, even when it may be difficult. We stay true to our word and deliver on commitments.
+We work hard but also have plenty of fun. Be part of an inspiring work culture in which we celebrate achievements together.
+Join a team of industry-leading minds and leaders in a constantly evolving ecosystem, where you can grow your career and take ownership to test new ideas.
+Next to a competitive salary, we've got you covered with generous time leave and employee discounts.
+We started global from day one. With offices spanning Europe & India, we’re naturally home to a multicultural and diverse team.
+We can’t succeed together unless we work together. Our team of experienced leaders and talents value working honestly and collaboratively towards one wider goal.
+We’re imagining and building a smarter future. Work with one of the world's most cutting-edge platforms shaping the age of information.
+c/o WeWork, Stresemannstraße 123
+c/o WeWork, 38 Cursitor St, Chancery Ln
+Indiqube Epsilon 91, GR Square, 4th Main Road KGA Road, Amarjyothi Layout, Domlur Bangalore 560071
+Step into a new era of marketing possibilities, unleashing the full potential of your customer data. Experience the power of Zeotap CDP.
+Sign up for our newsletter
+Be the first to get access to our marketing resources and keep up to date with the latest CDP best practices, privacy standards, marketing, and customer data.
+Get a demo
+Step into a new era of marketing possibilities, unleashing the full potential of your customer data. Experience the power of Zeotap CDP.
+Follow us
+
+Headings:
+Careers at Zeotap
+Our vision
+Our values
+PioneerDare to be different
+AdaptiveChange is always an opportunity
+ChallengerWe think, act, and win above our weight class
+TrustworthyActions speak louder than words
+My experience at Zeotap...
+Why joining Zeotap?
+Work/Play synergy
+Career advancement
+Compensation
+International teams
+Trust and transparency
+An exciting mission
+Team photos
+Office locations
+Main locations
+Berlin
+[email protected]
+London
+[email protected]
+Bangalore
+[email protected]
+Other locations
+Barcelona, Milan, Mumbai, Paris, Madrid
+Industry recognitions
+Trusted by
+Get a demo
+Follow us
+Crawling: https://zeotap.com/about-us/newsroom
+Paragraphs:
+The latest news and announcements from Zeotap
+Berlin, 5 December 2024 – Zeotap, an enterprise Customer Data Platform (CDP), and Insider, a
+Berlin, 5 December 2024 – Zeotap, an enterprise Customer Data Platform (CDP), and Insider, a
+Berlin, 3rd December 2024 – Zeotap, the enterprise Customer Data Platform (CDP), is delighted to
+Berlin, 20 November 2024: Zeotap, the enterprise Customer Data Platform, announced $25 million in new
+Berlin, 5th November, 2024 – Zeotap, a leading customer data platform (CDP) company, is pleased
+FC Bayern and Zeotap, a leading German provider of data software solutions, have agreed on
+ID5 identifiers are now an integral part of Zeotap’s ID graph Berlin, Sept 5, 2024
+[Denver CO, August 8, 2024] We are thrilled to announce a new partnership between MetaRouter,
+Affiliation with Prominent Industry Experts and Telco Titans Fuels Zeotap’s Growth in the Telecom Sector
+The former Senior Managing Director of Accenture, Roland Smertnig, assumes an advisory role at Zeotap
+We are pleased to announce that Zeotap CDP has been included in Forrester’s Landscape Report
+Step into a new era of marketing possibilities, unleashing the full potential of your customer data. Experience the power of Zeotap CDP.
+Sign up for our newsletter
+Be the first to get access to our marketing resources and keep up to date with the latest CDP best practices, privacy standards, marketing, and customer data.
+Get a demo
+Step into a new era of marketing possibilities, unleashing the full potential of your customer data. Experience the power of Zeotap CDP.
+Follow us
+
+Headings:
+Newsroom
+Zeotap and Insider Partner to Unify Customer Data and Drive Seamless Real-Time Experiences
+Zeotap and Insider Partner to Unify Customer Data and Drive Seamless Real-Time Experiences
+Fashion Industry Expert Dr. Achim Berg Joins Zeotap as Senior Advisor to Drive CDP Growth
+Zeotap announces $25 million funding to mark profitability milestone, adds Chair and COO to leadership team
+Zeotap Appoints Elad Simon as Chief Operating Officer, Bolstering Operational Excellence to Accelerate Growth in the CDP Market
+FC Bayern and Zeotap agree on partnership
+Zeotap partners with ID5 to amplify audience addressability to overcome signal loss
+MetaRouter and Zeotap Partner to Deliver an End-to-End, Europe-Centric Customer Data Solution That Puts Privacy and Security At the Forefront
+Zeotap Advances in the Telco Industry with Strategic Business Initiatives
+Roland Smertnig Joins Zeotap as Senior Advisor and Shareholder, Bolstering Zeotap’s Market Strategy in Global Banking Sector
+Zeotap Recognised in “The Customer Data Platforms for B2C Landscape, Q1 2024” Report
+Industry recognitions
+Trusted by
+What our customers say
+Get a demo
+Follow us
+Crawling: https://docs.zeotap.com/articles/acceptable-use-policy-publication/acceptable-use-policy
+Paragraphs:
+
+Headings:
+Crawling: https://zeotap.com/support/
+Paragraphs:
+We appreciate your patience and want to assure you that our dedicated support team is working diligently to address your inquiry.
+Step into a new era of marketing possibilities, unleashing the full potential of your customer data. Experience the power of Zeotap CDP.
+Sign up for our newsletter
+Be the first to get access to our marketing resources and keep up to date with the latest CDP best practices, privacy standards, marketing, and customer data.
+Get a demo
+Step into a new era of marketing possibilities, unleashing the full potential of your customer data. Experience the power of Zeotap CDP.
+Follow us
+
+Headings:
+Raise a Ticket
+Get a demo
+Follow us
+Crawling: https://zeotap.com/resources
+Paragraphs:
+Stay in the know with marketing resources from the CDP experts
+Delivering personalised experiences is essential for building customer loyalty and driving meaningful engagement. At
+Delivering personalised experiences is essential for building customer loyalty and driving meaningful engagement. At Zeotap,
+In an era where customer data is dispersed and fragmented, achieving high audience match rates
+In today’s competitive retail landscape, brands are under immense pressure to drive efficient, targeted campaigns
+As Artificial Intelligence (AI) rapidly transforms industries, businesses are increasingly leveraging its power to enhance
+Businesses need seamless access to both customer and non-customer data to meet the evolving demands
+Customer Data Platforms (CDPs) consolidate and manage customer data from various sources, enabling companies to gain
+It is simple to deliver amazing customer experiences without compromising user privacy. Complete the short form, and we’ll be in touch to schedule your demo.
+Step into a new era of marketing possibilities, unleashing the full potential of your customer data. Experience the power of Zeotap CDP.
+Sign up for our newsletter
+Be the first to get access to our marketing resources and keep up to date with the latest CDP best practices, privacy standards, marketing, and customer data.
+Get a demo
+Step into a new era of marketing possibilities, unleashing the full potential of your customer data. Experience the power of Zeotap CDP.
+Follow us
+
+Headings:
+Resource Library
+Elevating Personalisation with Zeotap CDP’s Interact SDK: Enabling Real-Time Customer Engagement
+Elevating Personalisation with Zeotap CDP’s Interact SDK: Enabling Real-Time Customer Engagement
+Boosting Match Rates and Engagement with Zeotap CDP
+Maximising Retail ROAS and Reach with Zeotap CDP
+AI Compliance: Navigating the Future of Responsible AI at Zeotap
+Zeotap Redefines Journey Creation: Leveraging Non-Customer Entity Data in Real Time
+Best-of-Breed vs Best-of-Suite CDPs: Which is Right for Your Business?
+Industry recognitions
+Trusted by
+What our customers say
+Schedule a Demo
+Get a demo
+Follow us
+Crawling: https://docs.zeotap.com/articles/#!support/clear-your-cache-and-cookies
+Paragraphs:
+
+Headings:
+Crawling: https://docs.zeotap.com/articles/#!support/create-an-har-file
+Paragraphs:
+
+Headings:
+Crawling: https://zeotap.com/legal-hub/master-services-agreement
+Paragraphs:
+Effective as of July 1, 2022
+
+This Zeotap Master Services Agreement, together with its Schedule(s) (the “MSA”) is made and entered into on the Effective Date between zeotap GmbH, a company incorporated under the laws of Germany and having its registered office at c/o WeWork, Stresemannstraße 123, 10963 Berlin, Germany (hereinafter referred to as “Zeotap”) and the party signing the Order Form which references this MSA (hereinafter referred to as the “Client”). Zeotap and Client shall hereinafter be referred to individually as “Party” and, collectively, as “Parties.”
+
+The Parties agree as follows:
+
+1. Definitions
+
+Capitalised terms not otherwise set out in the Agreement shall have the meaning set out in the attached Schedule 1 (Definitions).
+
+2. Services
+
+2.1 During the Term, Zeotap will provide to Client the Services identified in the Order Form on a subscription basis, subject to any Usage Thresholds set forth in the Order Form and in accordance with the Documentation. Zeotap reserves the right to update and modify the Services at any time in its sole discretion, provided that Zeotap may not materially decrease the functionalities in the Service during the Term.
+
+2.2 Zeotap hereby grants Client a limited, non-exclusive, non-sublicensable and non-transferable licence to access the System and use the Services in the Territory for the purposes as agreed by the Parties in the Agreement. Client may use the Services for the benefit of its Affiliates, and Affiliates may use the Services for their own benefit, but only within the Usage Thresholds as set out in the applicable Order Form and subject to compliance with all terms of this Agreement. Client guarantees that each Affiliate will fully perform its obligations hereunder, and Client is responsible for any breach of this Agreement by its Affiliates.
+
+2.3 Only Users may access the System and use the Services for Client’s internal business purposes. Client shall ensure that the Users, employees and third parties it makes the Services available to as permitted herein are subject to confidentiality, security and privacy obligations substantially similar to the ones contained in this Agreement. Client is responsible and liable for (i) Client’s customers and Users’ access to the System and use of Services; and (ii) any use of the System and/or Services through Client and/or User account, whether authorised or unauthorised.
+
+2.4 Client is responsible for selecting and configuring any Third-Party Platform integrated with the Services, for any other third-party products it chooses to use with the Services and for any transfer of Client Data it enables through the System. Notwithstanding anything to the contrary, Zeotap is not responsible for any Third-Party Platform or other third-party products used by Client with the Services, particularly how the providers use or protect Client Data. Client’s use of any Third-Party Platform or other products is subject to its separate agreement with the provider. The Parties acknowledge and agree that where a Third-Party Platform is utilised, the Parties shall use such platform in accordance with that Third Party Platform’s terms and conditions, policies and legal requirements.
+
+3. Professional Services
+
+3.1 Professional Services will be provided by Zeotap in accordance with the Order Form or a Statement of Work (“SOW”) containing the relevant terms and conditions, which will be governed by this Agreement. Unless otherwise identified in the Order Form or a Statement of Work, all Professional Services must be used within the relevant Term.
+
+3.2 Zeotap shall deliver all Professional Services from any of Zeotap Group’s offices unless otherwise mutually agreed between the Parties. Client shall reimburse Zeotap for all reasonable, pre-approved (email sufficient) and appropriately documented travel and related expenses incurred by Zeotap in performing any support or Professional Services for Client.
+
+3.3 Zeotap may, in its reasonable discretion, use subcontractors to perform any of its obligations hereunder. Zeotap will be responsible for the performance of Professional Services by its personnel (including employees and subcontractors) and their compliance with Zeotap’s obligations under this Agreement, except as otherwise specified herein.
+
+4. Client Data
+
+4.1 Client hereby grants Zeotap and its Affiliates a limited, non-exclusive, non-sublicensable and non-transferable licence to Client Data solely for the provision of Services subject to the conditions hereunder including the rights to: (i) receive, store, and transform Client Data; (ii) reproduce and make derivative works of Client Data; and (iii) transmit and distribute Client Data (or derivative works).
+
+4.2 The Parties agree that where any Client Data onboarded to the System include Personal Data, Zeotap shall process such Client Data as a processor on Client’s behalf. The data processing activities shall occur in compliance with all Applicable Laws and in accordance with the Data Processing Addendum.
+
+5. Fees and Payment
+
+5.1 Client shall pay to Zeotap the Fees set forth in the applicable Order Form in accordance with this section 5.
+
+5.2 Unless otherwise specified in the Order Form, the Parties agree that where the reported usage exceeds the thresholds specified in the Order Form, overage charges shall be due and payable by Client (the “Overage Fees”). Zeotap will issue an invoice for Overage Fees at the end of the relevant month based on the monthly reporting provided under this Agreement. Unless otherwise specified in the Order Form, the Overage Fees shall be payable within 15 (fifteen) days from the invoice date.
+
+5.3 Upon written request to Zeotap (email sufficient) or through a self-service functionality in the System, as available, Client may obtain reports on the Services usage.
+
+5.4 All Fees due to Zeotap are exclusive of any applicable tax (“Tax”). Client shall pay Zeotap any Tax that is due or provide Zeotap with satisfactory evidence of Client’s exemption from the Tax in advance of invoicing.
+
+5.5 Client shall provide Zeotap with accurate and adequate documentation sufficient to permit Zeotap to determine if any Tax is due.
+
+5.6 In the event the tax authorities in one country claim that Tax is owed in accordance with their domestic tax law and a potentially applicable double taxation treaty that withholding taxes must be withheld from the payments to be made by the Client to Zeotap under this Agreement, such withholding taxes shall be borne by the Client.
+
+5.7 Client agrees to promptly provide Zeotap with accurate factual information and documentation of Client’s payment of any such withholding taxes.
+
+5.8 As far as possible and appropriate, the Parties will lodge an appeal against the assessment of the withholding tax.
+
+5.9 The Parties shall support each other in every possible respect, especially with regard to possible applications for refunds of withholding taxes paid.
+
+5.10 If Zeotap receives any refund of withholding taxes which have been borne by the Client, Zeotap will remit the received payments to the Client.
+
+5.11 If Client fails to pay any amount due under this Agreement to zeotap, then, without prejudice to any of Zeotap’s other rights and remedies: (i) Zeotap may cease to provide and/or disable Client’s and Users’ access to all or part of the Products and/or System and Zeotap shall be under no obligation to provide any or all of the Products while the invoice(s) concerned remain unpaid; and (ii) Zeotap shall be entitled to recover all reasonable legal fees and other reasonable costs associated with the collection of such amounts, and (iii) Zeotap will charge a delayed payment charge at the rate of 1.5% per month compounded monthly (or, if less, the maximum amount allowed by Applicable Laws).
+
+5.12 Zeotap may adjust the Fees for any additional Renewal Term, by giving written notice to Client (email sufficient) at least 30 (thirty) days before the start of each Renewal Term, to: (i) remove any discounts granted during the Initial Term or then current Renewal Term, as applicable; and (ii) increase the Fees charged to the Client.
+
+6. Intellectual Property Rights
+
+Except to the extent set forth herein, neither Party grants the other any express or implied licence to or assigns its Intellectual Property Rights, including without limitation, all software used to provide the System and all graphics, user interfaces, logos, and trademarks reproduced through the System, including any modifications or improvements to these items made by Zeotap. Each Party and/or its licensors shall remain the sole owner of its respective Intellectual Property Rights. For the avoidance of any doubt, Zeotap may use know-how acquired, principles learned or developed, or experience gained during the performance of its obligations under this Agreement for its own purposes, including the use of aggregated and anonymised Client Data to improve the Services and develop and provide additional products and services.
+
+7. Representations and Warranties
+
+7.1 Zeotap will (i) provide the Services materially in accordance with the Documentation and the SLA; (ii) provide the Professional Services in a professional and workmanlike manner in accordance with generally accepted industry standards; (iii) maintain during the Term all rights, authorizations and licenses that are required to provide the Services; (iv) make the Services available in accordance with Zeotap’s obligations under Applicable Laws.
+
+7.2 Disclaimer. Except as expressly set forth in the Agreement and to the maximum extent permitted by Applicable Laws, the Services and the System are provided “as is” and as available, without representations or warranties of any kind, express or implied, including without limitation implied warranties of merchantability or fitness for a particular purpose, non-infringement, or any implied warranty arising from statute, course of dealing, course of performance, or usage of trade. Without limiting the generality of the foregoing: (i) Zeotap does not warrant that the Services and/or System will perform without interruption or error; (ii) Zeotap does not warrant that it will review Client Data for accuracy or that it will maintain Client Data without loss, where such loss is caused by an event beyond Zeotap reasonable control, and (iii) Zeotap does not make any warranties with respect to non-Zeotap products and shall not be liable for delays, failures or other problems inherent in the use of the Internet and electronic communications or systems outside Zeotap’s control.
+
+8. Liability
+
+8.1 To the maximum extent permitted by Applicable Laws, subject to clause 8.3, neither Party shall be liable to the other for any: (i) loss of revenue; (ii) loss of actual or anticipated profits; (iii) loss of the use of money; (iv) loss of anticipated savings; (v) loss of business; (vi) loss of opportunity; (vii) loss of goodwill or reputation; (viii) loss of contracts; (ix) loss of, damage to, or corruption to software or data; (x) the cost of selecting and procuring alternative or replacement software and services; or (xi) any indirect, special, or consequential loss or damage of any kind, even if informed of their possibility in advance.
+
+8.2 Subject to clause8.3 below, either Party’s aggregate liability arising from or relating to or in connection with the performance or contemplated performance of the Agreement, or the use of or inability to use, supply, failure to supply or delay in supplying, the Services, including any liability for the acts or omissions of either Party’s employees, agents subcontractors, and Affiliates, however caused and whether in contract, tort (including negligence), misrepresentation, restitution, for breach of a statutory duty or otherwise shall be limited to the amount of Fees due to Zeotap by Client under the Order Form for the Services giving rise to liability in the 12 (twelve) months preceding the moment the relevant claim arose. Notwithstanding anything to the contrary, each Party’s aggregate liability to the other Party for data protection claims, whether in contract, tort, warranty or otherwise, shall be limited to 2 (two) times the amount of Fees due to Zeotap by Client under the Order Form for the Services giving rise to liability in the 12 (twelve) months preceding the moment the relevant claim arose.
+
+8.3 Nothing in this Agreement excludes or limits either Party’s liability for: (i) fraud or fraudulent misrepresentation, (ii) death or personal injury caused by its negligence, (iii) breach of its obligations in section 10 (Confidentiality); (iv) indemnity obligations; (v) payment of sums properly due and owing to the other in the course of normal performance of the Agreement; or (vi) any other liability that cannot be excluded or limited under Applicable Laws.
+
+9. Indemnities
+
+9.1 Zeotap shall defend Client and its Affiliates, directors, officers, employees and agents and its and their respective successors, heirs and assigns (collectively, the “Client Parties”) against any third-party claim, suit, action, demand, proceeding or judgment (each, a “Claim”) to the extent such Claim alleges that the Services and/or System infringe any Intellectual Property Right and shall indemnify Client and Client Parties for any liability, damage, loss, administrative fine or expense (including without limitation court costs, reasonable legal fees and expenses of litigation) finally awarded (collectively, “Losses”) against Client or Client Parties in judgment or settlement of such Claim.
+
+9.2 Client shall indemnify, defend and hold harmless Zeotap and its Affiliates, directors, officers, employees and agents and its and their respective successors, heirs and assigns (collectively, the “Zeotap Parties”) against any Losses incurred by or imposed upon Zeotap or any of the Zeotap Parties in connection with any Claim relating to (i) Client’s improper use of the Services and/or System as contemplated by this Agreement, (ii) Zeotap’s use of Client Data for the provision of Services as contemplated by this Agreement.
+
+9.3 The above indemnification obligations are conditioned upon the Party seeking indemnification hereunder providing the indemnifying Party with (i) prompt written notice of the Claim for which it is seeking indemnification; (ii) sole authority to defend or settle the Claim; and (iii) reasonable cooperation and assistance in connection with the defence and settlement of the Claim at the indemnifying Party’s expense. Any settlements shall be subject to the indemnified Party’s prior consent, not to be unreasonably withheld.
+
+9.4 In the defence or settlement of any Claim, Zeotap may procure the right for Client to continue using the Services and/or System, replace or modify the Services and/or System so that they become non-infringing or, if such remedies are not reasonably available, terminate the right to use the affected Services and/or System and refund any prepaid Fees covering that portion of the Term for such Services remaining after the effective date of termination.
+
+9.5 In no event shall Zeotap, and its Affiliates, its employees, agents and subcontractors be liable to Client to the extent that the alleged Intellectual Property Right infringement is based on: (i) a modification of the Services and/or System by anyone other than Zeotap; or (ii) Client’s and/or Client’s Affiliates’ use of the Services and/or System (a) in a manner contrary to the instructions given to Client by Zeotap or (b) not in accordance with the provisions of this Agreement; or (iii) Client’s and/or Client’s Affiliates’ use of the Services and/or System after notice of the alleged or actual infringement from Zeotap or any appropriate authority.
+
+10. Confidentiality
+
+10.1 The Party receiving Confidential Information (“Receiving Party”) shall not share Confidential Information with third parties without the written consent of the Party disclosing Confidential Information (the “Disclosing Party”), except to its Affiliates, employees, investors, contractors and advisors, on a need to know basis and which shall be bound by the same confidentiality obligations as those contained herein. The Receiving Party shall be liable for all actions by such third parties with respect to the Confidential Information. The Receiving Party shall apply the same degree of care to protect Confidential Information as it applies to its own similar information, but in no event less than reasonable care, and will use Confidential Information only for the purpose of fulfilling its obligations and exercising its rights under this Agreement, or in connection with a proposed financing or acquisition.
+
+10.2 Confidential Information does not include information that: (i) is or becomes part of the public domain through no fault of the Receiving Party; (ii) was already in possession of the Receiving Party, without restriction; (iii) is independently developed by the Receiving Party without violation of this clause; or (iv) is received from a third party under no duty of confidentiality toward the other Party. The Receiving Party may disclose Confidential Information if it is required to do so by Applicable Laws, as long as the Receiving Party provides the other Party with prompt notice (if allowed by Applicable Laws) and complies with any protective order imposed on such disclosure.
+
+10.3 Client acknowledges and agrees that Zeotap has no obligations to treat as confidential any Feedback (as defined below) that Client, Client’s customers, or other Users provide to Zeotap, and nothing in the Agreement or in the Parties’ dealings arising out of or related to this Agreement will restrict Zeotap’s right to use, profit from, disclose, publish, keep secret, or otherwise exploit Feedback, without compensating or crediting Client or the Client’s customers or other User in question. Feedback will not constitute Client Confidential Information. (“Feedback” refers to any suggestion or idea for improving or otherwise modifying any of Zeotap’s products or services.)
+
+11. Term and Termination
+
+11.1 This MSA continues until the expiration of all Order Forms unless terminated earlier in accordance with this MSA. Termination of one Order Form will not have any effect on the validity of any other Order Forms.
+
+11.2 This Agreement shall commence on the Effective Date and shall continue for the Initial Term as set forth in the Order Form. Thereafter, the Agreement shall automatically renew for successive 12 (twelve) month periods (or such other period as specified in the applicable Order Form) (each a “Renewal Term”) unless terminated by either Party on 30 (thirty) days’ written notice prior to the end of the respective Initial Term or relevant Renewal Term, or otherwise terminates in accordance with the provisions of the Agreement.
+
+11.3 Either Party may terminate the Agreement (i) for cause upon prior written notice if the other Party materially breaches any of its obligations hereunder and such breach remains unrectified for a period of 30 (thirty) days after the date the non-breaching Party provides written notice of such material breach; or (ii) if the other Party becomes insolvent or bankrupt, makes an assignment for the benefit of creditors, has a trustee or receiver appointed for it, becomes the subject of any voluntary or involuntary insolvency or dissolution, bankruptcy or reorganisation proceeding, which, in the case of any involuntary proceeding, is not dismissed within 60 (sixty) days after it is commenced, or discontinues its business.
+
+11.4 Zeotap may suspend the provision of Services and/or access to the System, at any time on reasonable notice to Client: (i) where required to do so by a supervisory or law enforcement authority; (ii) if in the reasonable opinion of Zeotap’s counsel the supply of Services may violate Applicable Laws, as well as Zeotap’s contractual obligations to third parties; (iii) if Zeotap reasonably believes that the supply of Services may cause any harm or give rise to liability, including but not limited to a risk of a data leakage; or (iv) if Client and/or Zeotap access to the Third Party Platform has been suspended. If a suspension continues for 30 (thirty) days, Client shall have the right to terminate this Agreement, in which case Zeotap will refund Client any prepaid Fees for the remaining portion of the Term.
+
+11.5 Upon expiration or termination of this Agreement or an Order Form, Client’s access to the System and the Services will cease. At the request of the Disclosing Party, the Receiving Party shall within 10 (ten) days return the Disclosing Party’s Confidential Information or destroy all such material and may, upon request, certify the destruction to the Disclosing Party, except where the Receiving Party is required to retain a copy of such under mandatory Applicable Laws. Client Data will be deleted or returned to Client within 30 (thirty) days of a written request from Client and, in any case, deleted within ninety (90) days after the termination or expiration of the Agreement, unless Applicable Laws require storage of the Client Data.
+
+11.6 The following provisions will survive termination or expiration of this Agreement: (i) any obligation of Client to pay fees incurred before termination; (ii) clauses 6 (Intellectual Property Rights), 7 (Representations and Warranties), 8 (Liability), 9 (Indemnities), 10 (Confidentiality), and (iii) any other provision of this Agreement that must survive to fulfil its essential purpose.
+
+12. Miscellaneous
+
+12.1 Neither Party shall be considered in breach of this Agreement to the extent that performance of their respective obligations is prevented by an event of Force Majeure. The affected Party shall as soon as possible give notice to the other Party of an event of Force Majeure upon it being foreseen by, or becoming known to the affected Party. The Parties shall use their reasonable endeavours to: (i) overcome the effects of the event of Force Majeure; (ii) mitigate the effect of any delay occasioned by any event of Force Majeure; and (iii) ensure resumption of normal performance of this Agreement as soon as reasonably practicable and shall perform their obligations to the maximum extent practicable.
+
+12.2 This Agreement supersedes all other commitments, negotiations and understandings. Except as otherwise provided in this Agreement, this Agreement cannot be amended except in writing and signed by both Parties. This Agreement cannot be assigned without written consent of the non-assigning Party, except that either Party may assign this Agreement (i) to an acquirer of substantially all of that Party’s assets, stock or business by sale, merger or otherwise or (ii) to an Affiliate. Zeotap may assign its rights and obligations under the Agreement when the Applicable Laws provides for an automatic succession, to its Affiliates or in connection with the change of control transactions, including mergers, sales of all or substantially all assets.
+
+12.3 If any provision of this Agreement is unenforceable, that provision shall be re-interpreted to be as close to the Parties’ intent as legally possible and the validity of the remaining provisions will not be affected.
+
+12.4 During the Term: (i) Client agrees to participate in case studies and other similar marketing efforts reasonably requested by Zeotap, subject to each Party’s prior review and approval as to content; (ii) Zeotap may disclose that Client is a client of Zeotap to third parties; and (iii) Zeotap may include on and in its website, case studies, marketing materials, and conference presentations and other speaking opportunities, Client’s testimonials and other feedback regarding the Products, name, website URL, use case, and logo and other marks. Upon request from Client, Zeotap will promptly stop making the disclosure and use described in the foregoing sentence except to the extent already included in any then existing materials.
+
+12.5 All notices must be in English, in writing, addressed (i) in the case of Zeotap to[email protected], and (ii) in the case of Client to the postal address or email address detailed in the Order Form, or such other address as either Party has notified the other in accordance with this clause. All notices shall be deemed to have been given on receipt as verified by written or automated receipt or electronic log (as applicable). Zeotap may also send operational notices to Client by email or through the System.
+
+12.6 The Agreement shall be interpreted, construed and governed in accordance with the Governing Laws. The application of the United Nations Convention on Contracts for the International Sale of Goods are excluded.The Parties shall attempt in good faith to resolve any dispute arising out of or under this Agreement in an amicable manner. Any such dispute not resolved by the operational personnel involved shall be referred by either Party to a Dispute Resolution Committee made up of at least three senior officers of each Party within 15 (fifteen) Business Days of being notified of such a dispute. In the event that the Dispute Resolution Committee is unable to resolve any such dispute within 30 (thirty) days, each Party may take whatever steps are necessary to protect its interests. All disputes arising out of or in connection with the Agreement and not resolved amicably shall be finally settled by the Governing Courts.
+
+12.7 A Party’s failure or delay to exercise any right will not operate as a waiver, nor will any single or partial exercise of any such right preclude any other exercise or the exercise of any other right, power or remedy.
+
+SCHEDULE 1
+
+Definitions
+
+Acceptable Use Policymeans the Zeotap Acceptable Use Policy describing the acceptable usage of Zeotap’s System and Services, which current version is available athttps://zeotap.com/legal-hub/aup/.
+
+Affiliatemeans with respect to either Party, that Party, its subsidiaries, holding/parent companies, as well as subsidiaries of its holding/parent companies. For the avoidance of doubt Zeotap’s subsidiaries include Zeotap India Private Limited and Zeotap UK Limited.
+
+Agreementmeans this MSA (including any schedules, addenda and ancillary agreements and the Acceptable Use Policy), together with a completed and signed Order Form.
+
+Applicable Lawsmeans all the legislation and enactment or orders that are applicable to any of the Parties. In particular, any applicable law relating to fraud, bribery and corruption (such as the UK Bribery Act 2010, Criminal Finances Act 2017 and the United States Foreign Corrupt Practices Act 1977), as well as any applicable law relating to the processing, privacy and use of personal data, including, without limitation: (i) the General Data Protection Regulation (EU) 2016/679 (“GDPR”), the UK Data Protection Act 2018 (“UK GDPR”), and any corresponding national laws; (ii) any judicial or administrative interpretation of any of the above, including any binding guidance, approved codes of conduct or approved certification mechanisms; and (iii) any other applicable laws, rules, and regulations, including, to the extent applicable, industry self-regulations.
+
+Business Daymeans a day other than a Saturday, Sunday or public holiday in Germany when banks in Berlin are open for business.
+
+Client Datameans the data set onboarded by Client to the System for the usage of its functionalities, and the Services. The data set may include the following data attributes: online identifiers (such as advertising ID or cookie ID), offline identifiers (such as email address or phone number from a Client’s CRM system or another source), consent preferences, browsing data, interest data, or sociodemographic data.
+
+ConfidentialInformationmeans any of the Parties’ or Parties’ Affiliates’ proprietary information, technical data, trade secrets or know-how, including, but not limited to research, product plans, products, services, customer lists and customers, markets, software, developments, inventions, processes, formulas, technology, designs, drawings, engineering, hardware configuration information, marketing, finances, costs, pricing, pricing and methodology or other business information, which is marked as confidential or is to be seen as confidential because of its nature; Confidential Information includes the terms of this Agreement.
+
+Data Processing Addendummeans the agreement between the Parties for the processing of personal data, in accordance with Applicable Laws, available athttps://zeotap.com/legal-hub/terms-dpa/, which is incorporated herein by reference.
+
+Data Segmentsmeans the data set created by Client through functionalities in the System comprised of Client Data and/or Zeotap Data (as applicable), but without gaining access to the underlying Zeotap Data.
+
+Documentationmeans the applicable usage guides and technical policies made available to Client during the Term, and designed to facilitate the use of Services by Client.
+
+Effective Datemeans the date which shall be sooner to occur of (i) the Start Date stated on the Order Form and (ii) the date the Order Form is signed by the Client.
+
+Feesmeans the fees payable to Zeotap for the Services purchased by Client, which must be paid in accordance with the Order Form and section 5 of the MSA and any other fees due pursuant to this Agreement including but not limited to, Overage Fees.
+
+Force Majeuremeans any event beyond the reasonable control of either Party including, among other things, unpredictable adverse weather conditions, war, acts of God, acts of terrorism, floods, earthquakes or civil disturbance (but excluding labour disputes, strikes, industrial action or lockouts by the Party seeking to rely on Force Majeure).
+
+Governing LawsandGoverning Courtsmean, for each Client, the laws and courts set forth in the following table:
+
+
+Initial Termmeans the period commencing on the respective Effective Date and ending upon the expiry of the months specified in the respective Order Form(s).
+
+Intellectual Property Rightsmeans any rights in or in relation to any patent, copyright, database rights in relation to software, utility model, trademark (whether registered or not), brand name, service mark, trade secrets and any other rights of a proprietary nature in or to the results of intellectual activity in the industrial, commercial, scientific, literary or artistic fields, whether registrable or not and existing anywhere in the world.
+
+Overage Feesmeans those fees as defined in clause 5.2 of this MSA.
+
+Professional Servicesmeans Zeotap’s implementation, configuration, training and consulting services as may be specified in the Order Form or Statement of Work.
+
+Renewal Termhas the meaning given in clause 11.2 of this MSA.
+
+Servicesmeans the services purchased by Client, as identified in the Order Form, and provided by Zeotap through the System, or otherwise agreed by the Parties, and pursuant to the Agreement.
+
+SLAmeans the Zeotap standard service level agreement for the Services and/or System which is available at:https://zeotap.com/wp-content/uploads/210824_Service-level-agreement.pdf(as Zeotap may update, modify, or change from time to time), and which is incorporated herein by reference.
+
+Systemmeans the Zeotap Unity Dashboard that may be accessed by Client to use the Services.
+
+Termmeans the period described in clause 11.2 of this MSA.
+
+Territorymeans the geographical area(s) as provided in the Order Form.
+
+Third Party Platformmeans a digital platform operated by a third party, which is available to Client in the System and/or will be agreed by the Parties to be the receiver of Client Data and, if applicable, Data Segments, for the purposes of this Agreement.
+
+Usage Thresholdsmeans the maximum number of usage units (as specified on the applicable Order Form) that can be used within the applicable Services without incurring in Overage Fees.
+
+Usermeans any authorised individual who uses the System on Client’s behalf and/or through Client’s account or passwords.
+
+Zeotap Datameans the data attributes including online identifiers (such as advertising ID or cookie ID (or, if applicable, ID+)), sociodemographic data, app usage, purchase intent, provided by Zeotap’s Data Partners to Zeotap and managed by Zeotap.
+
+Zeotap’s Data Partnermeans data providers from which Zeotap sources the Zeotap Data.
+
+Zeotap Groupmeans Zeotap and its Affiliates.
+
+SCHEDULE 2
+
+ZEOTAP FUEL SPECIFIC TERMS
+
+
+MSA previous versions
+Step into a new era of marketing possibilities, unleashing the full potential of your customer data. Experience the power of Zeotap CDP.
+Sign up for our newsletter
+Be the first to get access to our marketing resources and keep up to date with the latest CDP best practices, privacy standards, marketing, and customer data.
+Get a demo
+Step into a new era of marketing possibilities, unleashing the full potential of your customer data. Experience the power of Zeotap CDP.
+Follow us
+
+Headings:
+MASTER SERVICES AGREEMENT
+Get a demo
+Follow us
+Crawling: https://docs.zeotap.com/articles/#!acceptable-use-policy-publication/acceptable-use-policy
+Paragraphs:
+
+Headings:
+Crawling: https://www.linkedin.com/company/zeotap
+Paragraphs:
+View all 165 employees
+Founded in 2014, Zeotap‚Äôs mission is to help brands monetise customer data in a privacy-first Europe. Today, Zeotap owns three data solutions. Zeotap CDP is the easy, secure and impactful Customer Data Platform that empowers brands to integrate, unify, segment and orchestrate customer data. Zeotap Data delivers quality targeting at scale by enabling the activation of 2,500 tried-and-tested Champion Segments across 100+ programmatic and social platforms. Zeotap ID+ is a universal marketing ID initiative that paves the way for addressability in the cookieless future. Zeotap works with the world‚Äôs top brands including Virgin Media O2, Amazon, and Audi.
+External link for Zeotap
+Zeotap is the easy, secure and impactful Customer Data Platform (CDP) made in Europe for Europe, and headquartered in Berlin, Germany. 
+Zeotap CDP empowers brands to integrate, unify, segment and orchestrate customer data now and in the cookie-less future, all while putting consumer privacy and compliance front-and-centre. It enables brands of all sizes to deliver personalised experiences for consumers that drive improved commercial outcomes across marketing, sales, and service. Zeotap is also the founding member of ID+, a universal marketing ID initiative. 
+Why Zeotap? 
+- Easy to use: powering use cases with a marketer
+- friendly UI 
+- Easy to implement: delivering business outcomes in just 8 weeks 
+- Best-in-class identity stitching and cookie-less addressability 
+- Made in Europe for European compliance and security standards 
+Zeotap works with the world‚Äôs top brands including Virgin Media O2, REWE, and Audi.
+Stresemannstra√üe 123
+Berlin, Berlin 10963, DE
+Chincholi Bunder Rd, Mindspace, Malad West, Maharashtra
+WeWork, 5th Floor, Spectrum Tower, 307
+Mumbai, Karnataka 400064, IN
+38 Cursitor Street
+Chancery Lane
+London, England WC2A 1EN, GB
+33 Rue La Fayette
+Paris, 75009, FR
+Paseo de la Castellana 43
+Madrid2, 28046, ES
+Passeig de Gracia 17
+Barcelona, 08007, ES
+Via San Marco 21
+Milan, 02121, IT
+974, 4th Cross, 80 Feet Main Rd Koramangala 4th Block
+Bangalore, 5600, IN
+20,932 followers
+In the telco industry, where customer expectations are high and competition is fierce, the right CDP can be a game-changer. But how do you identify the solution that truly meets your needs?
+
+Here‚Äôs what to look for:
+‚úîÔ∏è Data Unification: A CDP that consolidates fragmented data sources into a single, actionable customer view.
+‚úîÔ∏è Scalability: A solution that grows with your business and adapts to evolving telco requirements.
+‚úîÔ∏è Advanced Segmentation and Personalisation: Tools to deliver precise, tailored experiences across channels.
+‚úîÔ∏è Compliance and Privacy: Robust mechanisms to manage sensitive customer data responsibly.
+
+With a focus on these critical features,ZeotapCDP is helping leading telco brands achieve unparalleled success in customer engagement and operational efficiency.
+üí° Discover the key considerations for selecting the right CDP for your telco business:https://lnkd.in/gUMJ4vzW#ZeotapCDP#TelcoData#CustomerDataPlatform#DigitalTransformation#CDPforTelco
+20,932 followers
+üèéÔ∏è Attention F1 fans and data-driven marketing pros! üèÅZeotapandMetaRouterare teaming up to bring you an exclusive F1 simulation networking event that blends the high-octane excitement of racing with the opportunity to connect with industry leaders passionate about customer data.
+
+This isn‚Äôt just another industry event‚Äîit‚Äôs a chance to:
+‚úÖ Enjoy the thrill of an F1-inspired evening
+‚úÖ Network with top digital marketing, martech, and analytics professionals
+‚úÖ Gain actionable insights to accelerate your data strategies
+‚úÖ Unwind with drinks and a lively atmosphere
+
+Whether you're a marketer keen on data activation or simply an F1 enthusiast, this is your chance to connect, learn, and have a blast.
+
+üìÖ Date: 6th February, 6:30 PM
+üìç Venue: F1¬Æ Arcade London
+üçπ Vibe: Casual, engaging, and full of F1 energy
+
+Spaces are limited, so don‚Äôt miss your chance to join us! Register now and secure your spot:
+üîó Click here to register:https://lnkd.in/eUhP_sKELet‚Äôs turn data into real-world wins‚Äîon and off the track! üöÄMitch (Mircea) GavrilChristine YehMohamed AliJamie WebsterNeill BrookmanMiles Jones ‚úì#CustomerData#MarketingTechnology#DataDrivenMarketing#F1Networking#DigitalMarketing#CDP
+20,932 followers
+What happens when you combine the power ofGoogle Cloudwith the capabilities ofZeotapCDP? 
+You get a CDP that‚Äôs not only easy to use but also delivers scale, performance, and faster time-to-value for your business.
+
+Built 100% on Google Cloud with native integrations, Zeotap CDP ensures a seamless experience‚Äîoffering improved customer insights, enhanced scalability, and a superior ability to drive meaningful outcomes quickly. It‚Äôs a partnership designed to simplify customer data management and unlock value faster than ever before.
+
+üí° Discover how Zeotap CDP and Google Cloud are redefining the customer experience:https://lnkd.in/gAqcF9cS#ZeotapCDP#GoogleCloud#CustomerDataPlatform#FasterTimeToValue#DigitalTransformationSathish K SMitch (Mircea) GavrilJavier M.Christine YehTimur SultanovSteven StratfordMichelle FitzgeraldTom Cannon
+20,932 followers
+Many brands hesitate to implement a CDP, worried about lengthy timelines and complex rollouts. But as the need for faster personalisation grows, delaying implementation is no longer an option.Entainproved that CDP rollouts don‚Äôt have to take forever. With Zeotap CDP, they achieved an 8-week deployment by focusing on phased rollouts, quick wins, and structured goals. For businesses aiming to accelerate results, their strategy is a masterclass.
+
+üé• WatchLuke Coney, Senior Product Manager at Entain, explain how Zeotap CDP accelerated the CDP implementation.
+¬†
+üöÄ Start your CDP journey with confidence: Request a demo today!https://lnkd.in/eatsN5Q6#ZeotapCDP#BestofBreedCDP#CustomerDataPlatform#CDPDeployment#ZeotapSuccess#FasterTimetoValue
+20,932 followers
+Matt Bennathan, our Chief Commercial Officer at Zeotap, joined the brilliantSean Halpinon the latest episode of Programmatic Pulse.
+
+Massive thanks to Sean and the team for having us ‚Äì what a cracking opportunity to share a bit of what makes Zeotap tick!
+
+üí° A few highlights from the episode:
+00:27 Matt‚Äôs career journey: From data sales to leadership in AdTech
+03:00 Inside Zeotap: Our solutions, recent funding, and culture
+14:05 The power of saying NO: Staying disciplined for success
+33:45 Predictions for 2025: M&A activity and shifting industry dynamics
+
+It‚Äôs a fascinating listen for anyone curious about AdTech, leadership, and the exciting shifts coming in 2025.
+
+üëâ Catch the episode here:
+üéß Apple Podcasts:https://lnkd.in/eWiPTD83üéß Spotify:https://lnkd.in/eh6TRvKA#Zeotap#ProgrammaticPulse#AdTech#Leadership#Innovation#CustomerData
+20,932 followers
+Reaching the right audience is critical, but knowing who not to target can be just as powerful. 
+
+That‚Äôs the approachVirgin Media O2took withZeotapCDP, leveraging its Audience Suppression capabilities to transform their marketing strategy.
+
+With Zeotap CDP, VMO2 achieved:
+‚úîÔ∏è Greater campaign efficiency by eliminating overlap and focusing on untapped potential audiences.
+‚úîÔ∏è Cost savings through smarter resource allocation.
+‚úîÔ∏è Enhanced customer experience by reducing repetitive or irrelevant ads.
+
+By integrating audience suppression into their strategy, VMO2 didn‚Äôt just optimise performance‚Äîthey set a new benchmark for precision in telco marketing.
+
+üí° Learn how audience suppression can elevate your marketing game:https://lnkd.in/gYkG2bKs#ZeotapCDP#TelcoMarketing#AudienceSuppression#DataDrivenMarketing#CustomerExperienceMohamed AliGeorgina WestJavier M.
+20,932 followers
+In today‚Äôs fast-paced marketing landscape, relevance is everything. Yet, outdated audience segments can lead to wasted budgets and missed opportunities. That‚Äôs whyZeotapCDP‚Äôs Audience Refresh Frequency is a game-changer for brands aiming to maximise their campaign impact.
+
+With Audience Refresh Frequency, brands can:
+‚úÖ Keep segments fresh with real-time updates, ensuring campaigns always target the right audience.
+‚úÖ Enhance precision by dynamically adjusting to customer behavior and preferences.
+‚úÖ Drive efficiency by reducing wasted ad spend and boosting campaign ROI.
+
+Say goodbye to static segments and hello to data-driven precision that scales with your business. With Zeotap CDP, your campaigns are always one step ahead.
+
+üí° Discover how Audience Refresh Frequency is transforming marketing strategies:https://lnkd.in/ghHQvwVy#ZeotapCDP#AudienceSegmentation#DataDrivenMarketing#CustomerEngagement#MarketingPrecisionSimran gargPritika ShettySathish K SHarsha Korasala
+20,932 followers
+Effective audience segmentation is the backbone of impactful marketing campaigns. 
+
+ForVirgin Media O2, achieving this meant going beyond traditional approaches. By leveragingZeotapCDP, they unlocked the power of suppression to reach the right audience, while optimising efficiency and reducing waste.
+
+Here‚Äôs how Zeotap CDP made it possible:
+‚úîÔ∏è Advanced audience suppression to focus on high-value prospects and avoid oversaturation.
+‚úîÔ∏è Streamlined segmentation that delivers precision without complexity.
+‚úîÔ∏è Scalable solutions tailored to fit evolving marketing needs.
+
+The result? More targeted campaigns, maximised ROI, and a stronger connection with their audience. Read the case study here:https://lnkd.in/gehyuMGSüí° With Zeotap CDP, brands like VMO2 are setting new benchmarks for data-driven marketing. Imagine what it could do for you!#ZeotapCDP#AudienceSegmentation#DataDrivenMarketing#MarketingInnovation#CustomerDataMohamed AliRobert SmartGeorgina WestJavier M.
+20,932 followers
+Marketers understand the value of customer data, but fragmented identities and disconnected sources often stand in the way. That‚Äôs why match rate is the game-changer for transforming data into impact.
+
+WithZeotapCDP, brands are achieving:
+‚úÖ Higher match rates using ID Extension with deterministic matching, ensuring precise and privacy-compliant connections.
+‚úÖ Expanded addressable audiences‚Äîunlocking up to 2X more from their first-party data.
+‚úÖ Smarter, scalable campaigns‚Äîincreasing reach by 60% and boosting ROAS by 40%.
+
+A strong#matchrateturns more of your data into actionable insights, scales your reach, and drives meaningful customer engagement‚Äîall with privacy compliance at its core.
+üí° Want to see how it works? Explore the blog:https://lnkd.in/gtSc5F_3üìà Ready to transform your data strategy? Request a demo:https://lnkd.in/eatsN5Q6#DataDrivenMarketing#CustomerEngagement#ZeotapCDP#DeterministicMatching#CustomerDataPlatformMohamed AliMitch (Mircea) GavrilJavier M.
+20,932 followers
+Managing enterprise data can feel daunting‚Äîfragmented systems, inconsistent formats, and#complexonboardingcan slow down your business. But it doesn‚Äôt have to be that way.
+
+WithZeotapCDP, you get a powerful solution that tackles these challenges head-on. By enhancing data quality, streamlining onboarding, and ensuring standardisation, Zeotap CDP helps you transform complexity into clarity.
+
+The result? Faster access to actionable insights, smoother operations, and the ability to make impactful, data-driven decisions with confidence. üöÄ
+
+Don‚Äôt let data hurdles hold your business back. Discover how Zeotap CDP can help you master enterprise data complexity and unlock your data's full potential:https://lnkd.in/gDcTbdeX#EnterpriseData#ZeotapCDP#CustomerDataPlatform#DataStandardisationSathish K SPritika ShettyHarsha Korasala
+Information Technology & Services
+Technology, Information and Internet
+Software Development
+San Francisco, California
+Software Development
+London, England
+Software Development
+Mountain View, California
+Software Development
+San Francisco, California
+Software Development
+Bangalore, Karnataka
+Software Development
+London, England
+Technology, Information and Internet
+Bangalore, Karnataka
+Business Consulting and Services
+Technology, Information and Internet
+Last Round
+US$ 25.0M
+Agree & Join LinkedIn
+By clicking Continue to join or sign in, you agree to LinkedIn‚ÄôsUser Agreement,Privacy Policy, andCookie Policy.
+
+
+or
+By clicking Continue to join or sign in, you agree to LinkedIn‚ÄôsUser Agreement,Privacy Policy, andCookie Policy.
+New to LinkedIn?Join now
+or
+New to LinkedIn?Join now
+By clicking Continue to join or sign in, you agree to LinkedIn‚ÄôsUser Agreement,Privacy Policy, andCookie Policy.
+
+Headings:
+Zeotap
+Technology, Information and Internet
+Berlin, Berlin20,932 followers
+Easy, secure and impactful customer data
+About us
+Products
+Zeotap CDP (Customer Data Platform)
+Customer Data Platforms (CDP)
+Locations
+Employees at Zeotap
+Chris Scoggins
+Former builder of companies now helping‚Ä¶
+Amir Rosentuler
+Investor, Board member, Entrepreneur
+Christian Siegele
+Founder & Managing Partner Capnamic‚Ä¶
+Bernd Miehler
+Senior Advisor at zeotap
+Updates
+How to choose the right CDP for telco: Comprehensive Guide
+https://zeotap.com
+Get to Know Your Customer with Zeotap CDP and Google Cloud
+https://zeotap.com
+The Power of Audience Suppression in Telco Marketing: A CDP Perspective
+https://zeotap.com
+Mastering Marketing Precision with Audience Segment Refresh Frequency in Zeotap CDP
+https://zeotap.com
+How Zeotap CDP helped VMO2 with an effortless audience segmentation for an efficient suppression
+https://zeotap.com
+Boosting Match Rates and Engagement with Zeotap CDP
+https://zeotap.com
+How Zeotap CDP Empowers Enterprises to Maximise their Data Potential
+https://zeotap.com
+Join now to see what you are missing
+Affiliated pages
+Zeotap ID+
+Similar pages
+Zepto
+Postman
+InfoSum
+CommerceIQ
+Zeta
+Razorpay
+Permutive
+Flipkart
+Deloitte
+Piper
+Browse jobs
+Engineer jobs
+Software Engineer jobs
+Developer jobs
+Intern jobs
+Analyst jobs
+Full Stack Engineer jobs
+Scientist jobs
+Sales Marketing Manager jobs
+Freelance Software Engineer jobs
+Mathematics Tutor jobs
+PHP Developer jobs
+Marketing Officer jobs
+Web Development Specialist jobs
+Corporate Development Specialist jobs
+Digital Marketing Specialist jobs
+Head of Marketing jobs
+Web Developer jobs
+C Developer jobs
+Graduate Trainee jobs
+Junior Software Engineer jobs
+Funding
+Sign in to see who you already know at Zeotap
+Welcome back
+
+Headings:
+Crawling: https://zeotap.com/information-security-policy-statement
+Paragraphs:
+At Zeotap, we are committed to protecting the confidentiality, integrity, availability and privacy of our information assets as well as the information assets of our customers. We ensure that Zeotap’s products and services comply with leading industry practices as well as regulatory, operational and contractual requirements.
+
+We continuously strive to enhance our security processes and deliver products and services to customers under all contingencies. We pride ourselves on:
+
+
+If you have found a bug, please contact us using the below email address.
+
+[email protected]
+
+Thank you!
+Step into a new era of marketing possibilities, unleashing the full potential of your customer data. Experience the power of Zeotap CDP.
+Sign up for our newsletter
+Be the first to get access to our marketing resources and keep up to date with the latest CDP best practices, privacy standards, marketing, and customer data.
+Get a demo
+Step into a new era of marketing possibilities, unleashing the full potential of your customer data. Experience the power of Zeotap CDP.
+Follow us
+
+Headings:
+Information Security Policy Statement
+Get a demo
+Follow us
+Crawling: https://zeotap.com/product-privacy-policy
+Paragraphs:
+More information about our partners with whom we share your data can be seenhere.
+DEUTSCH
+ESPAÑOL
+zeotap GmbH (“Zeotap,” “us,” “we,” or “our”) is a company that offers the next-generation Customer Data Platform. It empowers brands to unify, enhance and activate customer data in a cookieless future, all while putting consumer privacy and compliance front-and-centre. Our services either solely use Zeotap’s proprietary technology or use its proprietary technology in combination with customer data (“User Data”) received from third parties (“Data Partners”), including but not limited to, customer data unification, identity extension, data onboarding, data matching, data insights, custom audience building, analytics/modelling, audience targeting in web and mobile advertising, and transfer of data into activation systems (including marketing ecosystem partners) (“Services”). Please note that, as mentioned above, our Services are comprised of two types: (i) software products (“Software Products”), as part of which we are using solely Zeotap’s proprietary technology to process and arrange the customer data shared by our Clients (as defined below), and (ii) data products (“Data Products”), as part of which we use User Data either alone or in combination with the customer data shared by our Clients (as defined below). You can learn more about our Products and Services on ourwebsite.
+Zeotap participates in the IAB Europe Transparency & Consent Framework andcomplies with its Specifications and Policies. Zeotap’s identification number withinthe framework is 301.
+Our Data Partners are mobile network operators, mobile application providers, media, technology platform providers, owners of media properties (“Publishers”), brands, agencies and others that have access to certain User Data that they wish to monetize by using our Services.
+Our clients (“Clients”) are businesses, including brands and agencies (“Advertisers”), Publishers, and other companies that send digital targeted advertising to  consumers. By using our Services, our Clients can address a particular audience and tailor advertisements to the likely interests and preferences of such audience.
+We work to ensure that our Services respect users’ privacy rights. To accomplish this goal, we adhere to privacy-by-design and privacy-by-default principles throughout the process of designing, building, and delivering our Services.
+By law, we are required to provide you with information regarding:
+The terms of this Policy apply to all User Data to the extent it contains your personal data as defined in the applicable laws and regulations.
+This Policy does not apply to personal data collected by our website zeotap.com. To access our website privacy policy, clickhere.
+This Policy also does not apply to information collected by our Data Partners, Clients or other third parties who may provide personal data to us, as their personal data handling practices are covered by their own privacy policies.
+This Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes in our processing of your personal data.
+As part of the Data Products, we receive the following categories of User Data from our Data Partners:
+We do not receive any ‘special categories of personal data’ (i.e., information about your race, ethnicity, religious or philosophical beliefs, sexual orientation, sex life, political opinions, health, trade union membership, or genetic/biometric data) or, knowingly, any personal data about children under the age of 16.
+Our Data Partners may collect data directly from users (both online and offline) or receive data from third parties.
+We request that our Data Partners provide users with all required information about the use of their personal data and allow users to exercise their rights according to applicable laws and regulations.
+We may also use cookies, pixels and similar tools to collect users’ Ad IDs or cookie IDs ourselves. These tools also automatically collect and send us information such as referral URLs, user agent string, and IP addresses. This information is a normal part of the log file information that is routinely exchanged as part of communication between operating systems.
+When we obtain different User Data pertaining to the same device from multiple Data Partners, we aggregate such User Data and store it against the same Ad ID (advertising identifier, associated with a device) or Cookie ID (a string of characters that websites and servers associate with the browser on which the cookie is stored). Zeotap also maintains a separate ID inventory, which connects the User Data into a common ID (“zeoID”) and is an internal pseudonymous identifier.
+We enhance User Data to create de-identified data segments and aggregate such segments into segment lists or Ad ID / Cookie ID lists based on our Clients’ preferences. We then share such lists with our Clients to enable them to effectively target the relevant users.
+We do not process information that directly identifies a particular individual such as an unencrypted name, address or government-issued ID number. However, whether or not User Data we receive are considered personal or personally identifiable data depends on, among other factors, the definition that applies in a user’s physical location. For example, in some locations, a user’s IP address may be deemed to be personal data, while in others it is not.
+We do not interact directly with users or their devices, unless a user sends us a deletion request, as described below under“YOUR RIGHTS WITH RESPECT TO YOUR PERSONAL DATA (INCLUDING OPT-OUT OPTIONS)”
+Please note that as part of our Software Products we may receive various additional categories of User Data from our Clients (including directly identifiable data).
+Below we describe the User Data categories in more detail.
+Ad IDs are user-resettable, unique, anonymized identifiers for advertising. Ad IDs identify a specific device and are implemented both on IDFA and Google Android Advertising ID.
+We obtain Ad IDs associated with de-identified User Data from our Data Partners. Ad IDs are then used by our Clients to identify advertising requests and to deliver relevant advertisements. We may also use Ad IDs to establish a relationship between different User Data attributes pertaining to the same user. For example, if we obtain User Data that indicates a certain user is between 25 and 30 years old, and later learn from another Data Partner that the user of the same device is interested in a healthy lifestyle, we combine this information against the same Ad IDs or cookie ID.
+An HTTP cookie (also called web cookie, Internet cookie, browser cookie or simply a cookie) is a small piece of data sent from a website and is stored in the user’s web browser while the user is browsing.
+We set third party cookies on behalf of Publishers who provide space for the display of advertising within websites. We may use cookies to establish a relationship between devices or data pertaining to the same user. If we already have information about a device’s user, we may link the information stored in cookies to the device’s Ad ID. We call this activity of linking information “mapping.” We use this information to facilitate the delivery of our Clients’ targeted Ads.
+In the course of the mapping activity described in the above paragraph, we receive such information as referral URLs, user agent string, and IP addresses.
+When you come to the website where Zeotap cookies are set, the log file we automatically receive includes the referral URL, which is the address of the website that you came from. We do not use and discard referral URLs within a reasonable time in compliance with our data retention period.
+We use IP addresses to derive information such as country and carrier. Afterwards, we discard IP addresses within a reasonable time in compliance with our data retention period.
+We use user agent string information contained in the log file to determine your device operating system and device model. Afterwards, we discard user agent string within a reasonable time in compliance with our data retention period.
+Some Data Partners or Clients may provide their offline data, such as hashed email addresses and hashed phone numbers. We require that such data are hashed using secure hashing algorithms prior to sharing with Zeotap.
+We use hashed emails or hashed phone numbers to establish a relationship between offline and online user profiles pertaining to a certain user and enrich the profiles pertaining to those online users. For example, our Client would like to run an advertising campaign on mobile devices targeting users whose hashed email addresses and/or hashed phone numbers the Client already has. However, without respective Ad IDs, the Client cannot target the desired audience. By comparing hashed email addresses and hashed phone numbers provided by the Client with the User Data we have from our Data Partners, we can match hashed email addresses or hashed phone numbers to Ad IDs corresponding to the same user. As a result, we have a list of Ad IDs corresponding to the list of users the Client would like to target. Additionally, we can also enrich those lists with additional profile data, such as the ones described below.
+Hashed emails would also serve as a basis for the creation of ID+, our tokenized individual pseudonymous identifier and specific to a user. You can learn more about ID+here.
+We may obtain demographic User Data from our Data Partners, such as:
+Zeotap uses this information to create demographic segments about users, for example, users who are “males, 30 to 34, living in Brooklyn.” We connect segments with Ad IDs so that our Clients can reach their target audiences on mobile devices.
+We may obtain App Usage and Browsing Data from our Data Partners, such as:
+URLs are web addresses, a specific character string that constitutes a reference to a resource. Most web browsers display the URL of a web page above the page in an address bar.
+We transform App Usage and Browsing Data into aggregated segments based on interests or purchase intent (such as Sports Enthusiast, Health & Fitness Buffs) which are of interest to our Clients.
+We may obtain purchase data from our Data Partners, such as:
+We may receive data from Data Partners about the physical location of a specific device, including latitude-longitude coordinates obtained through GPS tools, Wi-Fi or cell tower triangulation techniques.
+The location data we receive from Data Partners may be generalized, non-precise location data, or we may render the location data non-precise, in order to provide generalized location data to our Clients. Our Clients may use inferences from this information to send localized ads or targeted ads. We do not process precise location EU and UK data.
+A TC String’s primary purpose is to encapsulate and encode all the information disclosed to a user and the expression of their preferences for their personal data processing under the GDPR. Using a Consent Management Platform (CMP), the information is captured into an encoded and compact HTTP-transferable string. This string enables communication of transparency and consent information to entities, or “vendors”, that process a user’s personal data. Vendors decode a TC String to determine whether they have the necessary legal bases to process a user’s personal data for their purposes. The concise string data format enables a CMP to persist and retrieve a user’s preferences any time they’re needed as well as transfer that information to any vendors who need it.
+For further details, please refer to theIAB Europe policies.
+Our Services enable our Clients to among other things tailor advertising you see on your internet browser or mobile device to your interests and preferences. As a result, the number of ads that are not relevant or of interest to you will be reduced. To achieve this goal, we need to process your personal data. Such processing operations including the use ofcookies or other tracking technologies,are covered by your consent, which especially enables our Clients to use customized audience segments to improve and enhance their marketing activities and marketing reach.
+Under Data Products, our Data Partners who provide User Data to us collect users’ consent to process their personal data and share it with us according to their respective privacy policies. The consent collected by our Data Partners complies with the applicable laws requirements and enables Zeotap and its Clients processing activities. Any processing of your personal data by Zeotap is subject to your rights of choice and control as explained below. In accordance with the IAB Europe policies, we may process TC Strings. As TCF Vendor, we have conducted and documented a legitimate interest assessment for the processing of TC String. This assessment has shown that data subjects’ interests and fundamental rights do not override the legitimate interests pursued.
+Under Software Products, our Clients are acting as data controllers and are responsible for ensuring that an appropriate legal basis is in place.
+Please note that under Data Products, in case we combine our Client data with User Data, our Clients and us act as joint data controllers. With respect to the joint process, we and our Clients jointly determine the purposes and means of processing of User Data. In an agreement on joint controllership pursuant to Article 26 GDPR, we and our Clients have determined how the respective tasks and responsibilities in the processing of personal data are structured and who fulfils which data protection obligations. In particular, it was determined how an appropriate level of security and your rights as a data subject can be ensured, how the information duties under the applicable laws can be fulfilled jointly and how potential data protection incidents can be monitored. This also includes ensuring that reporting and notification obligations are fulfilled.
+With whom we share user data
+We share User Data with the following categories of third parties for the following purposes:
+The Advertisers we work with operate in the following businesses: Arts & Entertainment, Automotive, Health & Fitness, Food & Drink, Hobbies & Interests, Home & Garden, News, Finance & Insurance, Science, Pets, Sports, Style & Fashion, Technology & Computing, Tourism & Travel, Real Estate, Shopping, Health & Personal care, Information & Communication Technology (ICT), Energy, Transportation. Agencies we work with include:Dentsu UK Limited and Dentsu affiliate entities.
+Publisherswe work with include: MediaMond S.p.A., Triboo Media S.r.l., NetAddiction S.r.l., Edizioni Piemme S.p.A., Teads Italia S.r.l., Viralize S.r.l., AdKaora S.r.l., WebAds S.r.l., Instal S.r.l., Smartclip Italia S.r.l., MovingUp S.r.l., ZETA Gestion de Medios, WebAds Interactive SL, VLN Servicios Publicitarios Integrales S.L. (Sunmedia), Blue Media Comunicacion, S.L., RichAudience International SL, Smartclip Hispania SL, Teads S.A.
+Data Platformswe work with include: A.C. Nielsen Company Limited, adsquareGmbH, Xandr Inc., Inmobi Ltd., Maiden Marketing PTE Ltd. (d.b.a. POKKT), Amobee Inc.,Widespace AB, Google Ireland Ltd., The Trade Desk Inc., Adform A/S, Adobe Systems Inc.,TAPTAP Networks S.L., Videology Media Technologies B.V., Teads Italia S.r.l., Teads S.A.(global), Smartclip Italia S.r.l., LiveRamp Inc., TabMo SAS (Hawk), Pocket Math PteLtd, Bidstalk Technologies Pte Ltd, Mediasmart Mobile S.L., AppLiftGmbH,  salesforce.com  EMEA Limited, Yahoo AdTEch LLC, Meta Platforms Ireland Limited,Narrative I/O Inc., Adex GmbH, Smart Adserver, Lotame Solutions, Inc., Ventes Avenue PvtLtd, Neustar Inc., MediaMath, Inc., A.MOB SAS, Oracle, Amazon Europe Core SARL,Twitter International Company, Snap Group Limited, Taboola.com Ltd, Weborama SA,FreeWheel Media Inc, PubMatic Inc, Index Exchange Inc, Platform161 BV, Dynamic YieldGmbH, Permutive Limited, TikTok Technology Limited (Ireland), Braze Inc, MicrosoftCorporation, Magnite, Inc., Eyeota Pte Ltd, Neodata Group s.r.l., ID5 Technology Limited
+We will also disclose your User Data in response to valid legal processes, for example, in response to a court order, a subpoena or other legal request for information, and/or to comply with applicable legal and regulatory reporting requirements. We also may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or to verify or enforce compliance with the policies governing our products and/or services and with applicable laws, or as otherwise required or permitted by law or consistent with legal requirements. We are required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+In addition, we may transfer your information to an entity or individual that acquires, buys, or merges with us, or our affiliates. In these cases, we will require the acquiring company to carry on the material terms of this Policy, including the requests for account deletion.
+When we share User Data with the recipients described above, such sharing may constitute a transfer to a third country outside of the European Economic Area, for which the European Commission has not determined an adequate level of protection for your personal data. By law, we are required to ensure that the level of protection guaranteed for your personal data by the European and UK laws is not undermined by such transfer. We enter the EU Standard Contractual Clauses with respective User Data recipients, which you can access upon request. Please note that User Data is stored in the following locations: Germany, Belgium and United Kingdom.
+We have implemented appropriate technical and organizational safeguards to protect any personal data we receive from theft, loss, and unauthorized access. We follow generally accepted standards to protect personal User Data throughout the entire use cycle starting from the initial transfer until deletion. In addition, we limit internal access to your personal data to our employees, agents, contractors, and other third parties who have a legitimate business need to know. They will only process your personal data on our instructions, and they are subject to a duty of confidentiality.
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable supervisory authority of a breach where we are legally required to do so.
+Your personal data belongs to you. You have the following rights – in part under certainconditions – with respect to your personal data:
+To opt-out from the processing or exercise your other rights with respect to your personal data, you can directly contact your mobile operator or another Data Partner with whom you shared your personal data (please refer to their respective privacy policy). It is the responsibility of the respective Data Partner to ensure that your request is fully honoured.
+Additionally, you can contact us directly. The data we store is encrypted and stored against either (i) an Ad ID or (ii) a Cookie ID. This means that we need your Ad ID and/or Cookie ID in order to find all your data that are present in our system.
+Alternatively, we can check whether the data attribute that you sent us in your request (e.g. a telephone number or e-mail address) is stored in our system in a hashed format, however, if the hashed telephone number or hashed e-mail address is not stored in our system, and you did not provide us with your Ad ID and/or Cookie ID, we will not be able to find other related data that might still be stored in our system.
+Therefore, in order to be able to process and respond to your request properly and fully, we provide you with the following different channels to exercise your rights:
+Apart from all the above rights, you can also lodge a complaint with a supervisory authority if you believe we or our Data Partners infringed upon your rights.
+Moreover, you can always use the following mechanism to opt-out from targeted advertising:
+Please also note that using the above options does not mean you will block mobile advertising, but it means that the ads you receive will not be personalized for you.
+Regarding users from the United States:
+This section applies solely to visitors or users who reside in the United States.
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for.
+We retain data until the occurrence of the following events:
+Please note that our cookies have the following storage durations:
+If you have any questions or suggestions about this Policy and our privacy practices, please contact ushereor through the below channels:
+By email:[email protected]
+By post to Zeotap: zeotap GmbH, Privacy Team, Stresemannstraße 123, 10963 Berlin, Germany
+By post to our UK representative: zeotap UK Limited, 16 Great Queen Street, Covent Garden, London WC2B 5AH, United Kingdom
+By post to our external DPO: ePrivacy GmbH, Prof. Dr. Christoph Bauer, Burchardstrasse 14, 20095 Hamburg, Germany
+This Policy was last modified in August 2024.
+Step into a new era of marketing possibilities, unleashing the full potential of your customer data. Experience the power of Zeotap CDP.
+Sign up for our newsletter
+Be the first to get access to our marketing resources and keep up to date with the latest CDP best practices, privacy standards, marketing, and customer data.
+Get a demo
+Step into a new era of marketing possibilities, unleashing the full potential of your customer data. Experience the power of Zeotap CDP.
+Follow us
+
+Headings:
+PRODUCT AND SERVICES PRIVACY POLICY
+
+Data categories we receive and use
+A. Online identifiers
+
+Advertising IDs
+
+Cookie IDs
+
+B. Browsing data
+
+Log file information
+
+C. Offline identifiers
+
+Hashed email addresses and hashed phone numbers
+
+D. Profile data
+
+Demographic data
+
+App usage data
+
+Purchase data
+
+E. Geolocation data
+F. TC String
+
+Legal basis for processing personal data
+
+When we transfer user data internationally
+
+How we protect personal data
+
+Your rights with respect to your personal data (including opt-out options)
+
+How to exercise your rights
+
+Information on data retention
+
+Contact
+Get a demo
+Follow us
+Crawling: https://docs.zeotap.com/articles/#!api-doc-customer/profile-api
+Paragraphs:
+
+Headings:
+Crawling: https://zeotap.com/about-us/careers
+Paragraphs:
+Join us on our mission to provide easy, secure and impactful customer data
+At Zeotap, we envision a future in which businesses can deliver personalised and data-driven customer experiences while putting customer privacy at the front and centre. We are dedicated to helping brands monetise their customer data and easily attain commercial outcomes. To achieve this, we have developed and offer must-have software and data solutions to support our customers in reaching their desired business outcomes across marketing, sales, and customer service. We differentiate ourselves by providing addressiblity in customer data. This easy-to-use platform drives faster results with data privacy and compliance focus, supported by best-in-class customer support.
+Our values define who we are and how we work daily with customers, prospects, and team members. We let them come through in all that we do!
+We are not afraid to take risks and think outside the box. We are always looking for new and better ways to do things. We want to push boundaries and deliver value through innovation and creativity.
+We remain flexible and responsive to changing circumstances. We are open to new ideas and approaches, as well as listen to and understand the perspectives of others. We are willing to learn and grow from new experiences.
+We take on challenges that others may consider impossible to solve. A strong sense of ownership and a desire to succeed drive us. We put in the hard work and effort necessary to achieve our goals.
+We consistently act with integrity and accountability and focus on value creation for our colleagues and customers. We take pride in doing the right thing, even when it may be difficult. We stay true to our word and deliver on commitments.
+We work hard but also have plenty of fun. Be part of an inspiring work culture in which we celebrate achievements together.
+Join a team of industry-leading minds and leaders in a constantly evolving ecosystem, where you can grow your career and take ownership to test new ideas.
+Next to a competitive salary, we've got you covered with generous time leave and employee discounts.
+We started global from day one. With offices spanning Europe & India, we’re naturally home to a multicultural and diverse team.
+We can’t succeed together unless we work together. Our team of experienced leaders and talents value working honestly and collaboratively towards one wider goal.
+We’re imagining and building a smarter future. Work with one of the world's most cutting-edge platforms shaping the age of information.
+c/o WeWork, Stresemannstraße 123
+c/o WeWork, 38 Cursitor St, Chancery Ln
+Indiqube Epsilon 91, GR Square, 4th Main Road KGA Road, Amarjyothi Layout, Domlur Bangalore 560071
+Step into a new era of marketing possibilities, unleashing the full potential of your customer data. Experience the power of Zeotap CDP.
+Sign up for our newsletter
+Be the first to get access to our marketing resources and keep up to date with the latest CDP best practices, privacy standards, marketing, and customer data.
+Get a demo
+Step into a new era of marketing possibilities, unleashing the full potential of your customer data. Experience the power of Zeotap CDP.
+Follow us
+
+Headings:
+Careers at Zeotap
+Our vision
+Our values
+PioneerDare to be different
+AdaptiveChange is always an opportunity
+ChallengerWe think, act, and win above our weight class
+TrustworthyActions speak louder than words
+My experience at Zeotap...
+Why joining Zeotap?
+Work/Play synergy
+Career advancement
+Compensation
+International teams
+Trust and transparency
+An exciting mission
+Team photos
+Office locations
+Main locations
+Berlin
+[email protected]
+London
+[email protected]
+Bangalore
+[email protected]
+Other locations
+Barcelona, Milan, Mumbai, Paris, Madrid
+Industry recognitions
+Trusted by
+Get a demo
+Follow us
+Crawling: https://zeotap.com/about-us/newsroom
+Paragraphs:
+The latest news and announcements from Zeotap
+Berlin, 5 December 2024 – Zeotap, an enterprise Customer Data Platform (CDP), and Insider, a
+Berlin, 5 December 2024 – Zeotap, an enterprise Customer Data Platform (CDP), and Insider, a
+Berlin, 3rd December 2024 – Zeotap, the enterprise Customer Data Platform (CDP), is delighted to
+Berlin, 20 November 2024: Zeotap, the enterprise Customer Data Platform, announced $25 million in new
+Berlin, 5th November, 2024 – Zeotap, a leading customer data platform (CDP) company, is pleased
+FC Bayern and Zeotap, a leading German provider of data software solutions, have agreed on
+ID5 identifiers are now an integral part of Zeotap’s ID graph Berlin, Sept 5, 2024
+[Denver CO, August 8, 2024] We are thrilled to announce a new partnership between MetaRouter,
+Affiliation with Prominent Industry Experts and Telco Titans Fuels Zeotap’s Growth in the Telecom Sector
+The former Senior Managing Director of Accenture, Roland Smertnig, assumes an advisory role at Zeotap
+We are pleased to announce that Zeotap CDP has been included in Forrester’s Landscape Report
+Step into a new era of marketing possibilities, unleashing the full potential of your customer data. Experience the power of Zeotap CDP.
+Sign up for our newsletter
+Be the first to get access to our marketing resources and keep up to date with the latest CDP best practices, privacy standards, marketing, and customer data.
+Get a demo
+Step into a new era of marketing possibilities, unleashing the full potential of your customer data. Experience the power of Zeotap CDP.
+Follow us
+
+Headings:
+Newsroom
+Zeotap and Insider Partner to Unify Customer Data and Drive Seamless Real-Time Experiences
+Zeotap and Insider Partner to Unify Customer Data and Drive Seamless Real-Time Experiences
+Fashion Industry Expert Dr. Achim Berg Joins Zeotap as Senior Advisor to Drive CDP Growth
+Zeotap announces $25 million funding to mark profitability milestone, adds Chair and COO to leadership team
+Zeotap Appoints Elad Simon as Chief Operating Officer, Bolstering Operational Excellence to Accelerate Growth in the CDP Market
+FC Bayern and Zeotap agree on partnership
+Zeotap partners with ID5 to amplify audience addressability to overcome signal loss
+MetaRouter and Zeotap Partner to Deliver an End-to-End, Europe-Centric Customer Data Solution That Puts Privacy and Security At the Forefront
+Zeotap Advances in the Telco Industry with Strategic Business Initiatives
+Roland Smertnig Joins Zeotap as Senior Advisor and Shareholder, Bolstering Zeotap’s Market Strategy in Global Banking Sector
+Zeotap Recognised in “The Customer Data Platforms for B2C Landscape, Q1 2024” Report
+Industry recognitions
+Trusted by
+What our customers say
+Get a demo
+Follow us
+Crawling: https://docs.zeotap.com/articles/acceptable-use-policy-publication/acceptable-use-policy
+Paragraphs:
+
+Headings:
+Crawling: https://zeotap.com/support/
+Paragraphs:
+We appreciate your patience and want to assure you that our dedicated support team is working diligently to address your inquiry.
+Step into a new era of marketing possibilities, unleashing the full potential of your customer data. Experience the power of Zeotap CDP.
+Sign up for our newsletter
+Be the first to get access to our marketing resources and keep up to date with the latest CDP best practices, privacy standards, marketing, and customer data.
+Get a demo
+Step into a new era of marketing possibilities, unleashing the full potential of your customer data. Experience the power of Zeotap CDP.
+Follow us
+
+Headings:
+Raise a Ticket
+Get a demo
+Follow us
+Crawling: https://zeotap.com/resources
+Paragraphs:
+Stay in the know with marketing resources from the CDP experts
+Delivering personalised experiences is essential for building customer loyalty and driving meaningful engagement. At
+Delivering personalised experiences is essential for building customer loyalty and driving meaningful engagement. At Zeotap,
+In an era where customer data is dispersed and fragmented, achieving high audience match rates
+In today’s competitive retail landscape, brands are under immense pressure to drive efficient, targeted campaigns
+As Artificial Intelligence (AI) rapidly transforms industries, businesses are increasingly leveraging its power to enhance
+Businesses need seamless access to both customer and non-customer data to meet the evolving demands
+Customer Data Platforms (CDPs) consolidate and manage customer data from various sources, enabling companies to gain
+It is simple to deliver amazing customer experiences without compromising user privacy. Complete the short form, and we’ll be in touch to schedule your demo.
+Step into a new era of marketing possibilities, unleashing the full potential of your customer data. Experience the power of Zeotap CDP.
+Sign up for our newsletter
+Be the first to get access to our marketing resources and keep up to date with the latest CDP best practices, privacy standards, marketing, and customer data.
+Get a demo
+Step into a new era of marketing possibilities, unleashing the full potential of your customer data. Experience the power of Zeotap CDP.
+Follow us
+
+Headings:
+Resource Library
+Elevating Personalisation with Zeotap CDP’s Interact SDK: Enabling Real-Time Customer Engagement
+Elevating Personalisation with Zeotap CDP’s Interact SDK: Enabling Real-Time Customer Engagement
+Boosting Match Rates and Engagement with Zeotap CDP
+Maximising Retail ROAS and Reach with Zeotap CDP
+AI Compliance: Navigating the Future of Responsible AI at Zeotap
+Zeotap Redefines Journey Creation: Leveraging Non-Customer Entity Data in Real Time
+Best-of-Breed vs Best-of-Suite CDPs: Which is Right for Your Business?
+Industry recognitions
+Trusted by
+What our customers say
+Schedule a Demo
+Get a demo
+Follow us
+Crawling: https://docs.zeotap.com/articles/#!support/clear-your-cache-and-cookies
+Paragraphs:
+
+Headings:
+Crawling: https://docs.zeotap.com/articles/#!support/create-an-har-file
+Paragraphs:
+
+Headings:
+Crawling: https://zeotap.com/legal-hub/master-services-agreement
+Paragraphs:
+Effective as of July 1, 2022
+
+This Zeotap Master Services Agreement, together with its Schedule(s) (the “MSA”) is made and entered into on the Effective Date between zeotap GmbH, a company incorporated under the laws of Germany and having its registered office at c/o WeWork, Stresemannstraße 123, 10963 Berlin, Germany (hereinafter referred to as “Zeotap”) and the party signing the Order Form which references this MSA (hereinafter referred to as the “Client”). Zeotap and Client shall hereinafter be referred to individually as “Party” and, collectively, as “Parties.”
+
+The Parties agree as follows:
+
+1. Definitions
+
+Capitalised terms not otherwise set out in the Agreement shall have the meaning set out in the attached Schedule 1 (Definitions).
+
+2. Services
+
+2.1 During the Term, Zeotap will provide to Client the Services identified in the Order Form on a subscription basis, subject to any Usage Thresholds set forth in the Order Form and in accordance with the Documentation. Zeotap reserves the right to update and modify the Services at any time in its sole discretion, provided that Zeotap may not materially decrease the functionalities in the Service during the Term.
+
+2.2 Zeotap hereby grants Client a limited, non-exclusive, non-sublicensable and non-transferable licence to access the System and use the Services in the Territory for the purposes as agreed by the Parties in the Agreement. Client may use the Services for the benefit of its Affiliates, and Affiliates may use the Services for their own benefit, but only within the Usage Thresholds as set out in the applicable Order Form and subject to compliance with all terms of this Agreement. Client guarantees that each Affiliate will fully perform its obligations hereunder, and Client is responsible for any breach of this Agreement by its Affiliates.
+
+2.3 Only Users may access the System and use the Services for Client’s internal business purposes. Client shall ensure that the Users, employees and third parties it makes the Services available to as permitted herein are subject to confidentiality, security and privacy obligations substantially similar to the ones contained in this Agreement. Client is responsible and liable for (i) Client’s customers and Users’ access to the System and use of Services; and (ii) any use of the System and/or Services through Client and/or User account, whether authorised or unauthorised.
+
+2.4 Client is responsible for selecting and configuring any Third-Party Platform integrated with the Services, for any other third-party products it chooses to use with the Services and for any transfer of Client Data it enables through the System. Notwithstanding anything to the contrary, Zeotap is not responsible for any Third-Party Platform or other third-party products used by Client with the Services, particularly how the providers use or protect Client Data. Client’s use of any Third-Party Platform or other products is subject to its separate agreement with the provider. The Parties acknowledge and agree that where a Third-Party Platform is utilised, the Parties shall use such platform in accordance with that Third Party Platform’s terms and conditions, policies and legal requirements.
+
+3. Professional Services
+
+3.1 Professional Services will be provided by Zeotap in accordance with the Order Form or a Statement of Work (“SOW”) containing the relevant terms and conditions, which will be governed by this Agreement. Unless otherwise identified in the Order Form or a Statement of Work, all Professional Services must be used within the relevant Term.
+
+3.2 Zeotap shall deliver all Professional Services from any of Zeotap Group’s offices unless otherwise mutually agreed between the Parties. Client shall reimburse Zeotap for all reasonable, pre-approved (email sufficient) and appropriately documented travel and related expenses incurred by Zeotap in performing any support or Professional Services for Client.
+
+3.3 Zeotap may, in its reasonable discretion, use subcontractors to perform any of its obligations hereunder. Zeotap will be responsible for the performance of Professional Services by its personnel (including employees and subcontractors) and their compliance with Zeotap’s obligations under this Agreement, except as otherwise specified herein.
+
+4. Client Data
+
+4.1 Client hereby grants Zeotap and its Affiliates a limited, non-exclusive, non-sublicensable and non-transferable licence to Client Data solely for the provision of Services subject to the conditions hereunder including the rights to: (i) receive, store, and transform Client Data; (ii) reproduce and make derivative works of Client Data; and (iii) transmit and distribute Client Data (or derivative works).
+
+4.2 The Parties agree that where any Client Data onboarded to the System include Personal Data, Zeotap shall process such Client Data as a processor on Client’s behalf. The data processing activities shall occur in compliance with all Applicable Laws and in accordance with the Data Processing Addendum.
+
+5. Fees and Payment
+
+5.1 Client shall pay to Zeotap the Fees set forth in the applicable Order Form in accordance with this section 5.
+
+5.2 Unless otherwise specified in the Order Form, the Parties agree that where the reported usage exceeds the thresholds specified in the Order Form, overage charges shall be due and payable by Client (the “Overage Fees”). Zeotap will issue an invoice for Overage Fees at the end of the relevant month based on the monthly reporting provided under this Agreement. Unless otherwise specified in the Order Form, the Overage Fees shall be payable within 15 (fifteen) days from the invoice date.
+
+5.3 Upon written request to Zeotap (email sufficient) or through a self-service functionality in the System, as available, Client may obtain reports on the Services usage.
+
+5.4 All Fees due to Zeotap are exclusive of any applicable tax (“Tax”). Client shall pay Zeotap any Tax that is due or provide Zeotap with satisfactory evidence of Client’s exemption from the Tax in advance of invoicing.
+
+5.5 Client shall provide Zeotap with accurate and adequate documentation sufficient to permit Zeotap to determine if any Tax is due.
+
+5.6 In the event the tax authorities in one country claim that Tax is owed in accordance with their domestic tax law and a potentially applicable double taxation treaty that withholding taxes must be withheld from the payments to be made by the Client to Zeotap under this Agreement, such withholding taxes shall be borne by the Client.
+
+5.7 Client agrees to promptly provide Zeotap with accurate factual information and documentation of Client’s payment of any such withholding taxes.
+
+5.8 As far as possible and appropriate, the Parties will lodge an appeal against the assessment of the withholding tax.
+
+5.9 The Parties shall support each other in every possible respect, especially with regard to possible applications for refunds of withholding taxes paid.
+
+5.10 If Zeotap receives any refund of withholding taxes which have been borne by the Client, Zeotap will remit the received payments to the Client.
+
+5.11 If Client fails to pay any amount due under this Agreement to zeotap, then, without prejudice to any of Zeotap’s other rights and remedies: (i) Zeotap may cease to provide and/or disable Client’s and Users’ access to all or part of the Products and/or System and Zeotap shall be under no obligation to provide any or all of the Products while the invoice(s) concerned remain unpaid; and (ii) Zeotap shall be entitled to recover all reasonable legal fees and other reasonable costs associated with the collection of such amounts, and (iii) Zeotap will charge a delayed payment charge at the rate of 1.5% per month compounded monthly (or, if less, the maximum amount allowed by Applicable Laws).
+
+5.12 Zeotap may adjust the Fees for any additional Renewal Term, by giving written notice to Client (email sufficient) at least 30 (thirty) days before the start of each Renewal Term, to: (i) remove any discounts granted during the Initial Term or then current Renewal Term, as applicable; and (ii) increase the Fees charged to the Client.
+
+6. Intellectual Property Rights
+
+Except to the extent set forth herein, neither Party grants the other any express or implied licence to or assigns its Intellectual Property Rights, including without limitation, all software used to provide the System and all graphics, user interfaces, logos, and trademarks reproduced through the System, including any modifications or improvements to these items made by Zeotap. Each Party and/or its licensors shall remain the sole owner of its respective Intellectual Property Rights. For the avoidance of any doubt, Zeotap may use know-how acquired, principles learned or developed, or experience gained during the performance of its obligations under this Agreement for its own purposes, including the use of aggregated and anonymised Client Data to improve the Services and develop and provide additional products and services.
+
+7. Representations and Warranties
+
+7.1 Zeotap will (i) provide the Services materially in accordance with the Documentation and the SLA; (ii) provide the Professional Services in a professional and workmanlike manner in accordance with generally accepted industry standards; (iii) maintain during the Term all rights, authorizations and licenses that are required to provide the Services; (iv) make the Services available in accordance with Zeotap’s obligations under Applicable Laws.
+
+7.2 Disclaimer. Except as expressly set forth in the Agreement and to the maximum extent permitted by Applicable Laws, the Services and the System are provided “as is” and as available, without representations or warranties of any kind, express or implied, including without limitation implied warranties of merchantability or fitness for a particular purpose, non-infringement, or any implied warranty arising from statute, course of dealing, course of performance, or usage of trade. Without limiting the generality of the foregoing: (i) Zeotap does not warrant that the Services and/or System will perform without interruption or error; (ii) Zeotap does not warrant that it will review Client Data for accuracy or that it will maintain Client Data without loss, where such loss is caused by an event beyond Zeotap reasonable control, and (iii) Zeotap does not make any warranties with respect to non-Zeotap products and shall not be liable for delays, failures or other problems inherent in the use of the Internet and electronic communications or systems outside Zeotap’s control.
+
+8. Liability
+
+8.1 To the maximum extent permitted by Applicable Laws, subject to clause 8.3, neither Party shall be liable to the other for any: (i) loss of revenue; (ii) loss of actual or anticipated profits; (iii) loss of the use of money; (iv) loss of anticipated savings; (v) loss of business; (vi) loss of opportunity; (vii) loss of goodwill or reputation; (viii) loss of contracts; (ix) loss of, damage to, or corruption to software or data; (x) the cost of selecting and procuring alternative or replacement software and services; or (xi) any indirect, special, or consequential loss or damage of any kind, even if informed of their possibility in advance.
+
+8.2 Subject to clause8.3 below, either Party’s aggregate liability arising from or relating to or in connection with the performance or contemplated performance of the Agreement, or the use of or inability to use, supply, failure to supply or delay in supplying, the Services, including any liability for the acts or omissions of either Party’s employees, agents subcontractors, and Affiliates, however caused and whether in contract, tort (including negligence), misrepresentation, restitution, for breach of a statutory duty or otherwise shall be limited to the amount of Fees due to Zeotap by Client under the Order Form for the Services giving rise to liability in the 12 (twelve) months preceding the moment the relevant claim arose. Notwithstanding anything to the contrary, each Party’s aggregate liability to the other Party for data protection claims, whether in contract, tort, warranty or otherwise, shall be limited to 2 (two) times the amount of Fees due to Zeotap by Client under the Order Form for the Services giving rise to liability in the 12 (twelve) months preceding the moment the relevant claim arose.
+
+8.3 Nothing in this Agreement excludes or limits either Party’s liability for: (i) fraud or fraudulent misrepresentation, (ii) death or personal injury caused by its negligence, (iii) breach of its obligations in section 10 (Confidentiality); (iv) indemnity obligations; (v) payment of sums properly due and owing to the other in the course of normal performance of the Agreement; or (vi) any other liability that cannot be excluded or limited under Applicable Laws.
+
+9. Indemnities
+
+9.1 Zeotap shall defend Client and its Affiliates, directors, officers, employees and agents and its and their respective successors, heirs and assigns (collectively, the “Client Parties”) against any third-party claim, suit, action, demand, proceeding or judgment (each, a “Claim”) to the extent such Claim alleges that the Services and/or System infringe any Intellectual Property Right and shall indemnify Client and Client Parties for any liability, damage, loss, administrative fine or expense (including without limitation court costs, reasonable legal fees and expenses of litigation) finally awarded (collectively, “Losses”) against Client or Client Parties in judgment or settlement of such Claim.
+
+9.2 Client shall indemnify, defend and hold harmless Zeotap and its Affiliates, directors, officers, employees and agents and its and their respective successors, heirs and assigns (collectively, the “Zeotap Parties”) against any Losses incurred by or imposed upon Zeotap or any of the Zeotap Parties in connection with any Claim relating to (i) Client’s improper use of the Services and/or System as contemplated by this Agreement, (ii) Zeotap’s use of Client Data for the provision of Services as contemplated by this Agreement.
+
+9.3 The above indemnification obligations are conditioned upon the Party seeking indemnification hereunder providing the indemnifying Party with (i) prompt written notice of the Claim for which it is seeking indemnification; (ii) sole authority to defend or settle the Claim; and (iii) reasonable cooperation and assistance in connection with the defence and settlement of the Claim at the indemnifying Party’s expense. Any settlements shall be subject to the indemnified Party’s prior consent, not to be unreasonably withheld.
+
+9.4 In the defence or settlement of any Claim, Zeotap may procure the right for Client to continue using the Services and/or System, replace or modify the Services and/or System so that they become non-infringing or, if such remedies are not reasonably available, terminate the right to use the affected Services and/or System and refund any prepaid Fees covering that portion of the Term for such Services remaining after the effective date of termination.
+
+9.5 In no event shall Zeotap, and its Affiliates, its employees, agents and subcontractors be liable to Client to the extent that the alleged Intellectual Property Right infringement is based on: (i) a modification of the Services and/or System by anyone other than Zeotap; or (ii) Client’s and/or Client’s Affiliates’ use of the Services and/or System (a) in a manner contrary to the instructions given to Client by Zeotap or (b) not in accordance with the provisions of this Agreement; or (iii) Client’s and/or Client’s Affiliates’ use of the Services and/or System after notice of the alleged or actual infringement from Zeotap or any appropriate authority.
+
+10. Confidentiality
+
+10.1 The Party receiving Confidential Information (“Receiving Party”) shall not share Confidential Information with third parties without the written consent of the Party disclosing Confidential Information (the “Disclosing Party”), except to its Affiliates, employees, investors, contractors and advisors, on a need to know basis and which shall be bound by the same confidentiality obligations as those contained herein. The Receiving Party shall be liable for all actions by such third parties with respect to the Confidential Information. The Receiving Party shall apply the same degree of care to protect Confidential Information as it applies to its own similar information, but in no event less than reasonable care, and will use Confidential Information only for the purpose of fulfilling its obligations and exercising its rights under this Agreement, or in connection with a proposed financing or acquisition.
+
+10.2 Confidential Information does not include information that: (i) is or becomes part of the public domain through no fault of the Receiving Party; (ii) was already in possession of the Receiving Party, without restriction; (iii) is independently developed by the Receiving Party without violation of this clause; or (iv) is received from a third party under no duty of confidentiality toward the other Party. The Receiving Party may disclose Confidential Information if it is required to do so by Applicable Laws, as long as the Receiving Party provides the other Party with prompt notice (if allowed by Applicable Laws) and complies with any protective order imposed on such disclosure.
+
+10.3 Client acknowledges and agrees that Zeotap has no obligations to treat as confidential any Feedback (as defined below) that Client, Client’s customers, or other Users provide to Zeotap, and nothing in the Agreement or in the Parties’ dealings arising out of or related to this Agreement will restrict Zeotap’s right to use, profit from, disclose, publish, keep secret, or otherwise exploit Feedback, without compensating or crediting Client or the Client’s customers or other User in question. Feedback will not constitute Client Confidential Information. (“Feedback” refers to any suggestion or idea for improving or otherwise modifying any of Zeotap’s products or services.)
+
+11. Term and Termination
+
+11.1 This MSA continues until the expiration of all Order Forms unless terminated earlier in accordance with this MSA. Termination of one Order Form will not have any effect on the validity of any other Order Forms.
+
+11.2 This Agreement shall commence on the Effective Date and shall continue for the Initial Term as set forth in the Order Form. Thereafter, the Agreement shall automatically renew for successive 12 (twelve) month periods (or such other period as specified in the applicable Order Form) (each a “Renewal Term”) unless terminated by either Party on 30 (thirty) days’ written notice prior to the end of the respective Initial Term or relevant Renewal Term, or otherwise terminates in accordance with the provisions of the Agreement.
+
+11.3 Either Party may terminate the Agreement (i) for cause upon prior written notice if the other Party materially breaches any of its obligations hereunder and such breach remains unrectified for a period of 30 (thirty) days after the date the non-breaching Party provides written notice of such material breach; or (ii) if the other Party becomes insolvent or bankrupt, makes an assignment for the benefit of creditors, has a trustee or receiver appointed for it, becomes the subject of any voluntary or involuntary insolvency or dissolution, bankruptcy or reorganisation proceeding, which, in the case of any involuntary proceeding, is not dismissed within 60 (sixty) days after it is commenced, or discontinues its business.
+
+11.4 Zeotap may suspend the provision of Services and/or access to the System, at any time on reasonable notice to Client: (i) where required to do so by a supervisory or law enforcement authority; (ii) if in the reasonable opinion of Zeotap’s counsel the supply of Services may violate Applicable Laws, as well as Zeotap’s contractual obligations to third parties; (iii) if Zeotap reasonably believes that the supply of Services may cause any harm or give rise to liability, including but not limited to a risk of a data leakage; or (iv) if Client and/or Zeotap access to the Third Party Platform has been suspended. If a suspension continues for 30 (thirty) days, Client shall have the right to terminate this Agreement, in which case Zeotap will refund Client any prepaid Fees for the remaining portion of the Term.
+
+11.5 Upon expiration or termination of this Agreement or an Order Form, Client’s access to the System and the Services will cease. At the request of the Disclosing Party, the Receiving Party shall within 10 (ten) days return the Disclosing Party’s Confidential Information or destroy all such material and may, upon request, certify the destruction to the Disclosing Party, except where the Receiving Party is required to retain a copy of such under mandatory Applicable Laws. Client Data will be deleted or returned to Client within 30 (thirty) days of a written request from Client and, in any case, deleted within ninety (90) days after the termination or expiration of the Agreement, unless Applicable Laws require storage of the Client Data.
+
+11.6 The following provisions will survive termination or expiration of this Agreement: (i) any obligation of Client to pay fees incurred before termination; (ii) clauses 6 (Intellectual Property Rights), 7 (Representations and Warranties), 8 (Liability), 9 (Indemnities), 10 (Confidentiality), and (iii) any other provision of this Agreement that must survive to fulfil its essential purpose.
+
+12. Miscellaneous
+
+12.1 Neither Party shall be considered in breach of this Agreement to the extent that performance of their respective obligations is prevented by an event of Force Majeure. The affected Party shall as soon as possible give notice to the other Party of an event of Force Majeure upon it being foreseen by, or becoming known to the affected Party. The Parties shall use their reasonable endeavours to: (i) overcome the effects of the event of Force Majeure; (ii) mitigate the effect of any delay occasioned by any event of Force Majeure; and (iii) ensure resumption of normal performance of this Agreement as soon as reasonably practicable and shall perform their obligations to the maximum extent practicable.
+
+12.2 This Agreement supersedes all other commitments, negotiations and understandings. Except as otherwise provided in this Agreement, this Agreement cannot be amended except in writing and signed by both Parties. This Agreement cannot be assigned without written consent of the non-assigning Party, except that either Party may assign this Agreement (i) to an acquirer of substantially all of that Party’s assets, stock or business by sale, merger or otherwise or (ii) to an Affiliate. Zeotap may assign its rights and obligations under the Agreement when the Applicable Laws provides for an automatic succession, to its Affiliates or in connection with the change of control transactions, including mergers, sales of all or substantially all assets.
+
+12.3 If any provision of this Agreement is unenforceable, that provision shall be re-interpreted to be as close to the Parties’ intent as legally possible and the validity of the remaining provisions will not be affected.
+
+12.4 During the Term: (i) Client agrees to participate in case studies and other similar marketing efforts reasonably requested by Zeotap, subject to each Party’s prior review and approval as to content; (ii) Zeotap may disclose that Client is a client of Zeotap to third parties; and (iii) Zeotap may include on and in its website, case studies, marketing materials, and conference presentations and other speaking opportunities, Client’s testimonials and other feedback regarding the Products, name, website URL, use case, and logo and other marks. Upon request from Client, Zeotap will promptly stop making the disclosure and use described in the foregoing sentence except to the extent already included in any then existing materials.
+
+12.5 All notices must be in English, in writing, addressed (i) in the case of Zeotap to[email protected], and (ii) in the case of Client to the postal address or email address detailed in the Order Form, or such other address as either Party has notified the other in accordance with this clause. All notices shall be deemed to have been given on receipt as verified by written or automated receipt or electronic log (as applicable). Zeotap may also send operational notices to Client by email or through the System.
+
+12.6 The Agreement shall be interpreted, construed and governed in accordance with the Governing Laws. The application of the United Nations Convention on Contracts for the International Sale of Goods are excluded.The Parties shall attempt in good faith to resolve any dispute arising out of or under this Agreement in an amicable manner. Any such dispute not resolved by the operational personnel involved shall be referred by either Party to a Dispute Resolution Committee made up of at least three senior officers of each Party within 15 (fifteen) Business Days of being notified of such a dispute. In the event that the Dispute Resolution Committee is unable to resolve any such dispute within 30 (thirty) days, each Party may take whatever steps are necessary to protect its interests. All disputes arising out of or in connection with the Agreement and not resolved amicably shall be finally settled by the Governing Courts.
+
+12.7 A Party’s failure or delay to exercise any right will not operate as a waiver, nor will any single or partial exercise of any such right preclude any other exercise or the exercise of any other right, power or remedy.
+
+SCHEDULE 1
+
+Definitions
+
+Acceptable Use Policymeans the Zeotap Acceptable Use Policy describing the acceptable usage of Zeotap’s System and Services, which current version is available athttps://zeotap.com/legal-hub/aup/.
+
+Affiliatemeans with respect to either Party, that Party, its subsidiaries, holding/parent companies, as well as subsidiaries of its holding/parent companies. For the avoidance of doubt Zeotap’s subsidiaries include Zeotap India Private Limited and Zeotap UK Limited.
+
+Agreementmeans this MSA (including any schedules, addenda and ancillary agreements and the Acceptable Use Policy), together with a completed and signed Order Form.
+
+Applicable Lawsmeans all the legislation and enactment or orders that are applicable to any of the Parties. In particular, any applicable law relating to fraud, bribery and corruption (such as the UK Bribery Act 2010, Criminal Finances Act 2017 and the United States Foreign Corrupt Practices Act 1977), as well as any applicable law relating to the processing, privacy and use of personal data, including, without limitation: (i) the General Data Protection Regulation (EU) 2016/679 (“GDPR”), the UK Data Protection Act 2018 (“UK GDPR”), and any corresponding national laws; (ii) any judicial or administrative interpretation of any of the above, including any binding guidance, approved codes of conduct or approved certification mechanisms; and (iii) any other applicable laws, rules, and regulations, including, to the extent applicable, industry self-regulations.
+
+Business Daymeans a day other than a Saturday, Sunday or public holiday in Germany when banks in Berlin are open for business.
+
+Client Datameans the data set onboarded by Client to the System for the usage of its functionalities, and the Services. The data set may include the following data attributes: online identifiers (such as advertising ID or cookie ID), offline identifiers (such as email address or phone number from a Client’s CRM system or another source), consent preferences, browsing data, interest data, or sociodemographic data.
+
+ConfidentialInformationmeans any of the Parties’ or Parties’ Affiliates’ proprietary information, technical data, trade secrets or know-how, including, but not limited to research, product plans, products, services, customer lists and customers, markets, software, developments, inventions, processes, formulas, technology, designs, drawings, engineering, hardware configuration information, marketing, finances, costs, pricing, pricing and methodology or other business information, which is marked as confidential or is to be seen as confidential because of its nature; Confidential Information includes the terms of this Agreement.
+
+Data Processing Addendummeans the agreement between the Parties for the processing of personal data, in accordance with Applicable Laws, available athttps://zeotap.com/legal-hub/terms-dpa/, which is incorporated herein by reference.
+
+Data Segmentsmeans the data set created by Client through functionalities in the System comprised of Client Data and/or Zeotap Data (as applicable), but without gaining access to the underlying Zeotap Data.
+
+Documentationmeans the applicable usage guides and technical policies made available to Client during the Term, and designed to facilitate the use of Services by Client.
+
+Effective Datemeans the date which shall be sooner to occur of (i) the Start Date stated on the Order Form and (ii) the date the Order Form is signed by the Client.
+
+Feesmeans the fees payable to Zeotap for the Services purchased by Client, which must be paid in accordance with the Order Form and section 5 of the MSA and any other fees due pursuant to this Agreement including but not limited to, Overage Fees.
+
+Force Majeuremeans any event beyond the reasonable control of either Party including, among other things, unpredictable adverse weather conditions, war, acts of God, acts of terrorism, floods, earthquakes or civil disturbance (but excluding labour disputes, strikes, industrial action or lockouts by the Party seeking to rely on Force Majeure).
+
+Governing LawsandGoverning Courtsmean, for each Client, the laws and courts set forth in the following table:
+
+
+Initial Termmeans the period commencing on the respective Effective Date and ending upon the expiry of the months specified in the respective Order Form(s).
+
+Intellectual Property Rightsmeans any rights in or in relation to any patent, copyright, database rights in relation to software, utility model, trademark (whether registered or not), brand name, service mark, trade secrets and any other rights of a proprietary nature in or to the results of intellectual activity in the industrial, commercial, scientific, literary or artistic fields, whether registrable or not and existing anywhere in the world.
+
+Overage Feesmeans those fees as defined in clause 5.2 of this MSA.
+
+Professional Servicesmeans Zeotap’s implementation, configuration, training and consulting services as may be specified in the Order Form or Statement of Work.
+
+Renewal Termhas the meaning given in clause 11.2 of this MSA.
+
+Servicesmeans the services purchased by Client, as identified in the Order Form, and provided by Zeotap through the System, or otherwise agreed by the Parties, and pursuant to the Agreement.
+
+SLAmeans the Zeotap standard service level agreement for the Services and/or System which is available at:https://zeotap.com/wp-content/uploads/210824_Service-level-agreement.pdf(as Zeotap may update, modify, or change from time to time), and which is incorporated herein by reference.
+
+Systemmeans the Zeotap Unity Dashboard that may be accessed by Client to use the Services.
+
+Termmeans the period described in clause 11.2 of this MSA.
+
+Territorymeans the geographical area(s) as provided in the Order Form.
+
+Third Party Platformmeans a digital platform operated by a third party, which is available to Client in the System and/or will be agreed by the Parties to be the receiver of Client Data and, if applicable, Data Segments, for the purposes of this Agreement.
+
+Usage Thresholdsmeans the maximum number of usage units (as specified on the applicable Order Form) that can be used within the applicable Services without incurring in Overage Fees.
+
+Usermeans any authorised individual who uses the System on Client’s behalf and/or through Client’s account or passwords.
+
+Zeotap Datameans the data attributes including online identifiers (such as advertising ID or cookie ID (or, if applicable, ID+)), sociodemographic data, app usage, purchase intent, provided by Zeotap’s Data Partners to Zeotap and managed by Zeotap.
+
+Zeotap’s Data Partnermeans data providers from which Zeotap sources the Zeotap Data.
+
+Zeotap Groupmeans Zeotap and its Affiliates.
+
+SCHEDULE 2
+
+ZEOTAP FUEL SPECIFIC TERMS
+
+
+MSA previous versions
+Step into a new era of marketing possibilities, unleashing the full potential of your customer data. Experience the power of Zeotap CDP.
+Sign up for our newsletter
+Be the first to get access to our marketing resources and keep up to date with the latest CDP best practices, privacy standards, marketing, and customer data.
+Get a demo
+Step into a new era of marketing possibilities, unleashing the full potential of your customer data. Experience the power of Zeotap CDP.
+Follow us
+
+Headings:
+MASTER SERVICES AGREEMENT
+Get a demo
+Follow us
+Crawling: https://docs.zeotap.com/articles/#!acceptable-use-policy-publication/acceptable-use-policy
+Paragraphs:
+
+Headings:
+Crawling: https://www.linkedin.com/company/zeotap
+Paragraphs:
+View all 165 employees
+Founded in 2014, Zeotap‚Äôs mission is to help brands monetise customer data in a privacy-first Europe. Today, Zeotap owns three data solutions. Zeotap CDP is the easy, secure and impactful Customer Data Platform that empowers brands to integrate, unify, segment and orchestrate customer data. Zeotap Data delivers quality targeting at scale by enabling the activation of 2,500 tried-and-tested Champion Segments across 100+ programmatic and social platforms. Zeotap ID+ is a universal marketing ID initiative that paves the way for addressability in the cookieless future. Zeotap works with the world‚Äôs top brands including Virgin Media O2, Amazon, and Audi.
+External link for Zeotap
+Zeotap is the easy, secure and impactful Customer Data Platform (CDP) made in Europe for Europe, and headquartered in Berlin, Germany. 
+Zeotap CDP empowers brands to integrate, unify, segment and orchestrate customer data now and in the cookie-less future, all while putting consumer privacy and compliance front-and-centre. It enables brands of all sizes to deliver personalised experiences for consumers that drive improved commercial outcomes across marketing, sales, and service. Zeotap is also the founding member of ID+, a universal marketing ID initiative. 
+Why Zeotap? 
+- Easy to use: powering use cases with a marketer
+- friendly UI 
+- Easy to implement: delivering business outcomes in just 8 weeks 
+- Best-in-class identity stitching and cookie-less addressability 
+- Made in Europe for European compliance and security standards 
+Zeotap works with the world‚Äôs top brands including Virgin Media O2, REWE, and Audi.
+Stresemannstra√üe 123
+Berlin, Berlin 10963, DE
+Chincholi Bunder Rd, Mindspace, Malad West, Maharashtra
+WeWork, 5th Floor, Spectrum Tower, 307
+Mumbai, Karnataka 400064, IN
+38 Cursitor Street
+Chancery Lane
+London, England WC2A 1EN, GB
+33 Rue La Fayette
+Paris, 75009, FR
+Paseo de la Castellana 43
+Madrid2, 28046, ES
+Passeig de Gracia 17
+Barcelona, 08007, ES
+Via San Marco 21
+Milan, 02121, IT
+974, 4th Cross, 80 Feet Main Rd Koramangala 4th Block
+Bangalore, 5600, IN
+20,934 followers
+In the telco industry, where customer expectations are high and competition is fierce, the right CDP can be a game-changer. But how do you identify the solution that truly meets your needs?
+
+Here‚Äôs what to look for:
+‚úîÔ∏è Data Unification: A CDP that consolidates fragmented data sources into a single, actionable customer view.
+‚úîÔ∏è Scalability: A solution that grows with your business and adapts to evolving telco requirements.
+‚úîÔ∏è Advanced Segmentation and Personalisation: Tools to deliver precise, tailored experiences across channels.
+‚úîÔ∏è Compliance and Privacy: Robust mechanisms to manage sensitive customer data responsibly.
+
+With a focus on these critical features,ZeotapCDP is helping leading telco brands achieve unparalleled success in customer engagement and operational efficiency.
+üí° Discover the key considerations for selecting the right CDP for your telco business:https://lnkd.in/gUMJ4vzW#ZeotapCDP#TelcoData#CustomerDataPlatform#DigitalTransformation#CDPforTelco
+20,934 followers
+üèéÔ∏è Attention F1 fans and data-driven marketing pros! üèÅZeotapandMetaRouterare teaming up to bring you an exclusive F1 simulation networking event that blends the high-octane excitement of racing with the opportunity to connect with industry leaders passionate about customer data.
+
+This isn‚Äôt just another industry event‚Äîit‚Äôs a chance to:
+‚úÖ Enjoy the thrill of an F1-inspired evening
+‚úÖ Network with top digital marketing, martech, and analytics professionals
+‚úÖ Gain actionable insights to accelerate your data strategies
+‚úÖ Unwind with drinks and a lively atmosphere
+
+Whether you're a marketer keen on data activation or simply an F1 enthusiast, this is your chance to connect, learn, and have a blast.
+
+üìÖ Date: 6th February, 6:30 PM
+üìç Venue: F1¬Æ Arcade London
+üçπ Vibe: Casual, engaging, and full of F1 energy
+
+Spaces are limited, so don‚Äôt miss your chance to join us! Register now and secure your spot:
+üîó Click here to register:https://lnkd.in/eUhP_sKELet‚Äôs turn data into real-world wins‚Äîon and off the track! üöÄMitch (Mircea) GavrilChristine YehMohamed AliJamie WebsterNeill BrookmanMiles Jones ‚úì#CustomerData#MarketingTechnology#DataDrivenMarketing#F1Networking#DigitalMarketing#CDP
+20,934 followers
+What happens when you combine the power ofGoogle Cloudwith the capabilities ofZeotapCDP? 
+You get a CDP that‚Äôs not only easy to use but also delivers scale, performance, and faster time-to-value for your business.
+
+Built 100% on Google Cloud with native integrations, Zeotap CDP ensures a seamless experience‚Äîoffering improved customer insights, enhanced scalability, and a superior ability to drive meaningful outcomes quickly. It‚Äôs a partnership designed to simplify customer data management and unlock value faster than ever before.
+
+üí° Discover how Zeotap CDP and Google Cloud are redefining the customer experience:https://lnkd.in/gAqcF9cS#ZeotapCDP#GoogleCloud#CustomerDataPlatform#FasterTimeToValue#DigitalTransformationSathish K SMitch (Mircea) GavrilJavier M.Christine YehTimur SultanovSteven StratfordMichelle FitzgeraldTom Cannon
+20,934 followers
+Many brands hesitate to implement a CDP, worried about lengthy timelines and complex rollouts. But as the need for faster personalisation grows, delaying implementation is no longer an option.Entainproved that CDP rollouts don‚Äôt have to take forever. With Zeotap CDP, they achieved an 8-week deployment by focusing on phased rollouts, quick wins, and structured goals. For businesses aiming to accelerate results, their strategy is a masterclass.
+
+üé• WatchLuke Coney, Senior Product Manager at Entain, explain how Zeotap CDP accelerated the CDP implementation.
+¬†
+üöÄ Start your CDP journey with confidence: Request a demo today!https://lnkd.in/eatsN5Q6#ZeotapCDP#BestofBreedCDP#CustomerDataPlatform#CDPDeployment#ZeotapSuccess#FasterTimetoValue
+20,934 followers
+Matt Bennathan, our Chief Commercial Officer at Zeotap, joined the brilliantSean Halpinon the latest episode of Programmatic Pulse.
+
+Massive thanks to Sean and the team for having us ‚Äì what a cracking opportunity to share a bit of what makes Zeotap tick!
+
+üí° A few highlights from the episode:
+00:27 Matt‚Äôs career journey: From data sales to leadership in AdTech
+03:00 Inside Zeotap: Our solutions, recent funding, and culture
+14:05 The power of saying NO: Staying disciplined for success
+33:45 Predictions for 2025: M&A activity and shifting industry dynamics
+
+It‚Äôs a fascinating listen for anyone curious about AdTech, leadership, and the exciting shifts coming in 2025.
+
+üëâ Catch the episode here:
+üéß Apple Podcasts:https://lnkd.in/eWiPTD83üéß Spotify:https://lnkd.in/eh6TRvKA#Zeotap#ProgrammaticPulse#AdTech#Leadership#Innovation#CustomerData
+20,934 followers
+Reaching the right audience is critical, but knowing who not to target can be just as powerful. 
+
+That‚Äôs the approachVirgin Media O2took withZeotapCDP, leveraging its Audience Suppression capabilities to transform their marketing strategy.
+
+With Zeotap CDP, VMO2 achieved:
+‚úîÔ∏è Greater campaign efficiency by eliminating overlap and focusing on untapped potential audiences.
+‚úîÔ∏è Cost savings through smarter resource allocation.
+‚úîÔ∏è Enhanced customer experience by reducing repetitive or irrelevant ads.
+
+By integrating audience suppression into their strategy, VMO2 didn‚Äôt just optimise performance‚Äîthey set a new benchmark for precision in telco marketing.
+
+üí° Learn how audience suppression can elevate your marketing game:https://lnkd.in/gYkG2bKs#ZeotapCDP#TelcoMarketing#AudienceSuppression#DataDrivenMarketing#CustomerExperienceMohamed AliGeorgina WestJavier M.
+20,934 followers
+In today‚Äôs fast-paced marketing landscape, relevance is everything. Yet, outdated audience segments can lead to wasted budgets and missed opportunities. That‚Äôs whyZeotapCDP‚Äôs Audience Refresh Frequency is a game-changer for brands aiming to maximise their campaign impact.
+
+With Audience Refresh Frequency, brands can:
+‚úÖ Keep segments fresh with real-time updates, ensuring campaigns always target the right audience.
+‚úÖ Enhance precision by dynamically adjusting to customer behavior and preferences.
+‚úÖ Drive efficiency by reducing wasted ad spend and boosting campaign ROI.
+
+Say goodbye to static segments and hello to data-driven precision that scales with your business. With Zeotap CDP, your campaigns are always one step ahead.
+
+üí° Discover how Audience Refresh Frequency is transforming marketing strategies:https://lnkd.in/ghHQvwVy#ZeotapCDP#AudienceSegmentation#DataDrivenMarketing#CustomerEngagement#MarketingPrecisionSimran gargPritika ShettySathish K SHarsha Korasala
+20,934 followers
+Effective audience segmentation is the backbone of impactful marketing campaigns. 
+
+ForVirgin Media O2, achieving this meant going beyond traditional approaches. By leveragingZeotapCDP, they unlocked the power of suppression to reach the right audience, while optimising efficiency and reducing waste.
+
+Here‚Äôs how Zeotap CDP made it possible:
+‚úîÔ∏è Advanced audience suppression to focus on high-value prospects and avoid oversaturation.
+‚úîÔ∏è Streamlined segmentation that delivers precision without complexity.
+‚úîÔ∏è Scalable solutions tailored to fit evolving marketing needs.
+
+The result? More targeted campaigns, maximised ROI, and a stronger connection with their audience. Read the case study here:https://lnkd.in/gehyuMGSüí° With Zeotap CDP, brands like VMO2 are setting new benchmarks for data-driven marketing. Imagine what it could do for you!#ZeotapCDP#AudienceSegmentation#DataDrivenMarketing#MarketingInnovation#CustomerDataMohamed AliRobert SmartGeorgina WestJavier M.
+20,934 followers
+Marketers understand the value of customer data, but fragmented identities and disconnected sources often stand in the way. That‚Äôs why match rate is the game-changer for transforming data into impact.
+
+WithZeotapCDP, brands are achieving:
+‚úÖ Higher match rates using ID Extension with deterministic matching, ensuring precise and privacy-compliant connections.
+‚úÖ Expanded addressable audiences‚Äîunlocking up to 2X more from their first-party data.
+‚úÖ Smarter, scalable campaigns‚Äîincreasing reach by 60% and boosting ROAS by 40%.
+
+A strong#matchrateturns more of your data into actionable insights, scales your reach, and drives meaningful customer engagement‚Äîall with privacy compliance at its core.
+üí° Want to see how it works? Explore the blog:https://lnkd.in/gtSc5F_3üìà Ready to transform your data strategy? Request a demo:https://lnkd.in/eatsN5Q6#DataDrivenMarketing#CustomerEngagement#ZeotapCDP#DeterministicMatching#CustomerDataPlatformMohamed AliMitch (Mircea) GavrilJavier M.
+20,934 followers
+Managing enterprise data can feel daunting‚Äîfragmented systems, inconsistent formats, and#complexonboardingcan slow down your business. But it doesn‚Äôt have to be that way.
+
+WithZeotapCDP, you get a powerful solution that tackles these challenges head-on. By enhancing data quality, streamlining onboarding, and ensuring standardisation, Zeotap CDP helps you transform complexity into clarity.
+
+The result? Faster access to actionable insights, smoother operations, and the ability to make impactful, data-driven decisions with confidence. üöÄ
+
+Don‚Äôt let data hurdles hold your business back. Discover how Zeotap CDP can help you master enterprise data complexity and unlock your data's full potential:https://lnkd.in/gDcTbdeX#EnterpriseData#ZeotapCDP#CustomerDataPlatform#DataStandardisationSathish K SPritika ShettyHarsha Korasala
+Information Technology & Services
+Technology, Information and Internet
+Software Development
+San Francisco, California
+Software Development
+London, England
+Software Development
+Mountain View, California
+Software Development
+San Francisco, California
+Software Development
+Bangalore, Karnataka
+Software Development
+London, England
+Technology, Information and Internet
+Bangalore, Karnataka
+Business Consulting and Services
+Technology, Information and Internet
+Last Round
+US$ 25.0M
+Agree & Join LinkedIn
+By clicking Continue to join or sign in, you agree to LinkedIn‚ÄôsUser Agreement,Privacy Policy, andCookie Policy.
+
+
+or
+By clicking Continue to join or sign in, you agree to LinkedIn‚ÄôsUser Agreement,Privacy Policy, andCookie Policy.
+New to LinkedIn?Join now
+or
+New to LinkedIn?Join now
+By clicking Continue to join or sign in, you agree to LinkedIn‚ÄôsUser Agreement,Privacy Policy, andCookie Policy.
+
+Headings:
+Zeotap
+Technology, Information and Internet
+Berlin, Berlin20,934 followers
+Easy, secure and impactful customer data
+About us
+Products
+Zeotap CDP (Customer Data Platform)
+Customer Data Platforms (CDP)
+Locations
+Employees at Zeotap
+Chris Scoggins
+Former builder of companies now helping‚Ä¶
+Amir Rosentuler
+Investor, Board member, Entrepreneur
+Christian Siegele
+Founder & Managing Partner Capnamic‚Ä¶
+Bernd Miehler
+Senior Advisor at zeotap
+Updates
+How to choose the right CDP for telco: Comprehensive Guide
+https://zeotap.com
+Get to Know Your Customer with Zeotap CDP and Google Cloud
+https://zeotap.com
+The Power of Audience Suppression in Telco Marketing: A CDP Perspective
+https://zeotap.com
+Mastering Marketing Precision with Audience Segment Refresh Frequency in Zeotap CDP
+https://zeotap.com
+How Zeotap CDP helped VMO2 with an effortless audience segmentation for an efficient suppression
+https://zeotap.com
+Boosting Match Rates and Engagement with Zeotap CDP
+https://zeotap.com
+How Zeotap CDP Empowers Enterprises to Maximise their Data Potential
+https://zeotap.com
+Join now to see what you are missing
+Affiliated pages
+Zeotap ID+
+Similar pages
+Zepto
+Postman
+InfoSum
+CommerceIQ
+Zeta
+Razorpay
+Permutive
+Flipkart
+Deloitte
+Piper
+Browse jobs
+Engineer jobs
+Software Engineer jobs
+Developer jobs
+Intern jobs
+Analyst jobs
+Full Stack Engineer jobs
+Scientist jobs
+Sales Marketing Manager jobs
+Freelance Software Engineer jobs
+Mathematics Tutor jobs
+PHP Developer jobs
+Marketing Officer jobs
+Web Development Specialist jobs
+Corporate Development Specialist jobs
+Digital Marketing Specialist jobs
+Head of Marketing jobs
+Web Developer jobs
+C Developer jobs
+Graduate Trainee jobs
+Junior Software Engineer jobs
+Funding
+Sign in to see who you already know at Zeotap
+Welcome back
+Crawling: https://twitter.com/zeotap
+Paragraphs:

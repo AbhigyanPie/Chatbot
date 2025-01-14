@@ -1,0 +1,42 @@
+{
+  "name": "next-ai-prep",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@langchain/community": "^0.3.24",
+    "@langchain/openai": "^0.0.28",
+    "@radix-ui/react-slot": "^1.0.2",
+    "ai": "^3.4.33",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.0",
+    "langchain": "^0.3.11",
+    "langchain-core": "^0.0.4",
+    "lodash": "^4.17.21",
+    "lucide-react": "^0.370.0",
+    "next": "^14.2.23",
+    "node": "^22.13.0",
+    "openai": "^4.37.1",
+    "react": "^18",
+    "react-dom": "^18",
+    "tailwind-merge": "^2.2.2",
+    "tailwindcss-animate": "^1.0.7",
+    "ui": "^0.2.4"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.17.14",
+    "@types/node": "^20.17.12",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
